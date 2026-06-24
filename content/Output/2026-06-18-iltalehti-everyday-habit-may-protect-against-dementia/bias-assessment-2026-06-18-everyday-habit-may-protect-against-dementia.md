@@ -32,8 +32,8 @@ Artikkeli käsittelee tutkimusta, jossa ruoanlaitto oli yhteydessä pienempään
 
 | Ajatusvirhe | Luottamus | Miksi se voi soveltua | Miksi se ei välttämättä sovellu |
 |---|---:|---|---|
-| [[38 False Causality]] | 0.76 | Kokkaavat ihmiset voivat poiketa muista terveydeltään, toimintakyvyltään tai sosiaaliselta asemaltaan. | Artikkeli käyttää saattavat-sanaa ja pohtii mekanismeja. |
-| [[48 Self Selection Bias]] | 0.58 | Ne, jotka pystyvät kokkaamaan, voivat jo lähtötilanteessa olla toimintakykyisempiä. | Tutkimuksessa on voitu kontrolloida osaa taustatekijöistä, mutta artikkeli ei kerro kaikkia yksityiskohtia. |
+| [[38-false-causality|Väärä kausaliteetti]] | 0.76 | Kokkaavat ihmiset voivat poiketa muista terveydeltään, toimintakyvyltään tai sosiaaliselta asemaltaan. | Artikkeli käyttää saattavat-sanaa ja pohtii mekanismeja. |
+| [[48-self-selection-bias|Itsevalikoitumisharha]] | 0.58 | Ne, jotka pystyvät kokkaamaan, voivat jo lähtötilanteessa olla toimintakykyisempiä. | Tutkimuksessa on voitu kontrolloida osaa taustatekijöistä, mutta artikkeli ei kerro kaikkia yksityiskohtia. |
 
 **Vaihtoehtoiset selitykset:**
 - Kokkaaminen voi aidosti ylläpitää arjen toimintakykyä.
@@ -52,8 +52,8 @@ Artikkeli käsittelee tutkimusta, jossa ruoanlaitto oli yhteydessä pienempään
 
 | Ajatusvirhe | Luottamus | Miksi se voi soveltua | Miksi se ei välttämättä sovellu |
 |---|---:|---|---|
-| [[58 Overoptimism Tendency]] | 0.45 | Helppo arkinen tapa voi tuntua suuremmalta suojalta kuin näyttö sallii. | Artikkeli ei lupaa varmaa ehkäisyä. |
-| [[43 Framing]] | 0.58 | Otsikko korostaa suojaa ja helppoutta ennen tutkimusrajoitteita. | Juttu sisältää myös yleistä tietoa dementiariskeistä. |
+| [[58-overoptimism|Yltiöoptimismi]] | 0.45 | Helppo arkinen tapa voi tuntua suuremmalta suojalta kuin näyttö sallii. | Artikkeli ei lupaa varmaa ehkäisyä. |
+| [[43-framing|Kehystys]] | 0.58 | Otsikko korostaa suojaa ja helppoutta ennen tutkimusrajoitteita. | Juttu sisältää myös yleistä tietoa dementiariskeistä. |
 
 **Vaihtoehtoiset selitykset:**
 - Terveelliset arkitavat voivat olla hyödyllisiä, vaikka yksittäinen vaikutus olisi epävarma.

@@ -32,8 +32,8 @@ Artikkeli kertoo lymfooman oireista ja siitä, milloin pitkittyneen patin vuoksi
 
 | Ajatusvirhe | Luottamus | Miksi se voi soveltua | Miksi se ei välttämättä sovellu |
 |---|---:|---|---|
-| [[26 Neglect of Probability]] | 0.66 | Pelottava seuraus voi tuntua todennäköisemmältä kuin se on. | Artikkeli ei sano, että jokainen patti olisi syöpä. |
-| [[11 Availability Bias]] | 0.58 | Dramaattinen syöpäotsikko voi jäädä mieleen ja ohjata oireiden tulkintaa. | Terveysvalistus voi perustellusti kannustaa hakeutumaan lääkäriin pitkittyneissä oireissa. |
+| [[26-neglect-of-probability|Todennäköisyyden laiminlyönti]] | 0.66 | Pelottava seuraus voi tuntua todennäköisemmältä kuin se on. | Artikkeli ei sano, että jokainen patti olisi syöpä. |
+| [[11-availability-bias|Saatavuusharha]] | 0.58 | Dramaattinen syöpäotsikko voi jäädä mieleen ja ohjata oireiden tulkintaa. | Terveysvalistus voi perustellusti kannustaa hakeutumaan lääkäriin pitkittyneissä oireissa. |
 
 **Vaihtoehtoiset selitykset:**
 - Pitkittynyt kivuton patti voi aidosti olla tutkimisen arvoinen.
@@ -52,8 +52,8 @@ Artikkeli kertoo lymfooman oireista ja siitä, milloin pitkittyneen patin vuoksi
 
 | Ajatusvirhe | Luottamus | Miksi se voi soveltua | Miksi se ei välttämättä sovellu |
 |---|---:|---|---|
-| [[43 Framing]] | 0.74 | Sama tieto voisi olla kehystetty rauhallisemmin: milloin patti kannattaa tutkituttaa. | Otsikko ei välttämättä vääristä itse lääketieteellistä neuvoa. |
-| [[44 Action Bias]] | 0.35 | Pelko voi saada lukijan haluamaan välittömiä toimia ilman oireen kokonaisarviointia. | Lääkäriin hakeutuminen pitkittyneissä oireissa on usein järkevää toimintaa. |
+| [[43-framing|Kehystys]] | 0.74 | Sama tieto voisi olla kehystetty rauhallisemmin: milloin patti kannattaa tutkituttaa. | Otsikko ei välttämättä vääristä itse lääketieteellistä neuvoa. |
+| [[44-action-bias|Toimintaharha]] | 0.35 | Pelko voi saada lukijan haluamaan välittömiä toimia ilman oireen kokonaisarviointia. | Lääkäriin hakeutuminen pitkittyneissä oireissa on usein järkevää toimintaa. |
 
 **Vaihtoehtoiset selitykset:**
 - Terveysuutinen voi tarkoituksella käyttää vahvaa kehystä, jotta oireita ei sivuuteta.

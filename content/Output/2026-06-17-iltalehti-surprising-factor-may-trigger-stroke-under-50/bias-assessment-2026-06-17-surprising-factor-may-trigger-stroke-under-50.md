@@ -32,8 +32,8 @@ Artikkeli kertoo tutkimuksesta, jossa sekä vähäinen liikunta että erittäin 
 
 | Ajatusvirhe | Luottamus | Miksi se voi soveltua | Miksi se ei välttämättä sovellu |
 |---|---:|---|---|
-| [[26 Neglect of Probability]] | 0.68 | Aivoinfarkti on vakava seuraus, mutta artikkeli ei kerro yksilön absoluuttista riskiä. | Tutkimus koskee tärkeää potilasryhmää ja tunnistaa mahdollisia riskitekijöitä. |
-| [[11 Availability Bias]] | 0.56 | Yllättävä vakava terveysuutinen voi jäädä mieleen ja vääristää liikunnan riskikuvaa. | Teksti ei väitä, että tavallinen liikunta olisi vaarallista. |
+| [[26-neglect-of-probability|Todennäköisyyden laiminlyönti]] | 0.68 | Aivoinfarkti on vakava seuraus, mutta artikkeli ei kerro yksilön absoluuttista riskiä. | Tutkimus koskee tärkeää potilasryhmää ja tunnistaa mahdollisia riskitekijöitä. |
+| [[11-availability-bias|Saatavuusharha]] | 0.56 | Yllättävä vakava terveysuutinen voi jäädä mieleen ja vääristää liikunnan riskikuvaa. | Teksti ei väitä, että tavallinen liikunta olisi vaarallista. |
 
 **Vaihtoehtoiset selitykset:**
 - Erittäin raskas rasitus voi olla riskitekijä tietyille alttiille ihmisille.
@@ -52,8 +52,8 @@ Artikkeli kertoo tutkimuksesta, jossa sekä vähäinen liikunta että erittäin 
 
 | Ajatusvirhe | Luottamus | Miksi se voi soveltua | Miksi se ei välttämättä sovellu |
 |---|---:|---|---|
-| [[38 False Causality]] | 0.48 | Yhteys ja mahdollinen mekanismi eivät vielä todista yksilön kohdalla syytä. | Artikkeli sanoo mahdollinen selitys ja kuvaa salasyntyisiä tapauksia varovaisesti. |
-| [[43 Framing]] | 0.50 | Laukaista-verbi tekee yhteydestä toiminnallisen ja dramaattisen. | Se voi olla lääketieteellisesti perusteltu termi tietyssä riskitilanteessa. |
+| [[38-false-causality|Väärä kausaliteetti]] | 0.48 | Yhteys ja mahdollinen mekanismi eivät vielä todista yksilön kohdalla syytä. | Artikkeli sanoo mahdollinen selitys ja kuvaa salasyntyisiä tapauksia varovaisesti. |
+| [[43-framing|Kehystys]] | 0.50 | Laukaista-verbi tekee yhteydestä toiminnallisen ja dramaattisen. | Se voi olla lääketieteellisesti perusteltu termi tietyssä riskitilanteessa. |
 
 **Vaihtoehtoiset selitykset:**
 - Kyse voi olla hetkellisestä fysiologisesta laukaisijasta alttiilla henkilöllä.

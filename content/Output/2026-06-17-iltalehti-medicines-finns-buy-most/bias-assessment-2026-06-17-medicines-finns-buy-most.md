@@ -32,8 +32,8 @@ Artikkeli raportoi lääkemyynnin euro- ja kulutuslukuja Suomessa. Se on tilasto
 
 | Ajatusvirhe | Luottamus | Miksi se voi soveltua | Miksi se ei välttämättä sovellu |
 |---|---:|---|---|
-| [[43 Framing]] | 0.60 | Otsikko kehystää tilaston ostamisen kautta, vaikka jutussa käytetään useita mittareita. | Leipäteksti erottaa euromääräisen myynnin ja kulutuksen useissa kohdissa. |
-| [[29 Base Rate Neglect]] | 0.52 | Ilman nimittäjää lukija ei näe, johtuuko kasvu hinnasta, käyttäjämäärästä vai annosmääristä. | Artikkeli selittää joitakin hintojen ja käytön eroja. |
+| [[43-framing|Kehystys]] | 0.60 | Otsikko kehystää tilaston ostamisen kautta, vaikka jutussa käytetään useita mittareita. | Leipäteksti erottaa euromääräisen myynnin ja kulutuksen useissa kohdissa. |
+| [[29-base-rate-neglect|Perusprosentin sivuuttaminen]] | 0.52 | Ilman nimittäjää lukija ei näe, johtuuko kasvu hinnasta, käyttäjämäärästä vai annosmääristä. | Artikkeli selittää joitakin hintojen ja käytön eroja. |
 
 **Vaihtoehtoiset selitykset:**
 - Otsikko voi olla tiivis tapa johdattaa lääketilastoon.
@@ -52,8 +52,8 @@ Artikkeli raportoi lääkemyynnin euro- ja kulutuslukuja Suomessa. Se on tilasto
 
 | Ajatusvirhe | Luottamus | Miksi se voi soveltua | Miksi se ei välttämättä sovellu |
 |---|---:|---|---|
-| [[11 Availability Bias]] | 0.34 | Paljon esillä oleva lääke voi tuntua yleisimmältä tai tärkeimmältä lääkkeeltä. | Väite on rajattu euromääräiseen myyntiin. |
-| [[31 Anchoring]] | 0.30 | 4,2 miljardin kokonaismyynti voi ankkuroida lukijan arvioimaan lääkekulutusta ensisijaisesti rahana. | Rahamittari on tilastouutisessa relevantti. |
+| [[11-availability-bias|Saatavuusharha]] | 0.34 | Paljon esillä oleva lääke voi tuntua yleisimmältä tai tärkeimmältä lääkkeeltä. | Väite on rajattu euromääräiseen myyntiin. |
+| [[31-anchoring|Ankkurointi]] | 0.30 | 4,2 miljardin kokonaismyynti voi ankkuroida lukijan arvioimaan lääkekulutusta ensisijaisesti rahana. | Rahamittari on tilastouutisessa relevantti. |
 
 **Vaihtoehtoiset selitykset:**
 - Kalliimpi lääke voi nousta myyntitilastossa korkealle ilman että se on kappalemääräisesti yleisin.

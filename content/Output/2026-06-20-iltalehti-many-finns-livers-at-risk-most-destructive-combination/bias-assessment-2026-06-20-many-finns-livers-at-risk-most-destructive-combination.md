@@ -32,8 +32,8 @@ Artikkeli varoittaa alkoholin ja rasvamaksan yhteisvaikutuksesta. Asiantuntijal�
 
 | Ajatusvirhe | Luottamus | Miksi se voi soveltua | Miksi se ei välttämättä sovellu |
 |---|---:|---|---|
-| [[43 Framing]] | 0.70 | Vaarasanasto tekee terveysriskistä kiireellisen ja tunnepitoisen. | Koska rasvamaksa on yleinen ja alkoholi voi pahentaa sitä, vahva kehys voi olla perusteltu. |
-| [[26 Neglect of Probability]] | 0.42 | Yksilöllinen riski riippuu määrästä, kestosta, terveydestä ja muista tekijöistä. | Tekstissä mainitaan yksilölliset tekijät ja ettei turvarajaa voi antaa. |
+| [[43-framing|Kehystys]] | 0.70 | Vaarasanasto tekee terveysriskistä kiireellisen ja tunnepitoisen. | Koska rasvamaksa on yleinen ja alkoholi voi pahentaa sitä, vahva kehys voi olla perusteltu. |
+| [[26-neglect-of-probability|Todennäköisyyden laiminlyönti]] | 0.42 | Yksilöllinen riski riippuu määrästä, kestosta, terveydestä ja muista tekijöistä. | Tekstissä mainitaan yksilölliset tekijät ja ettei turvarajaa voi antaa. |
 
 **Vaihtoehtoiset selitykset:**
 - Kesäloman alkoholinkäyttö voi aidosti lisätä riskikäyttäytymistä.
@@ -52,8 +52,8 @@ Artikkeli varoittaa alkoholin ja rasvamaksan yhteisvaikutuksesta. Asiantuntijal�
 
 | Ajatusvirhe | Luottamus | Miksi se voi soveltua | Miksi se ei välttämättä sovellu |
 |---|---:|---|---|
-| [[27 Zero Risk Bias]] | 0.36 | Lukija voi tulkita, että koska nollariskirajaa ei ole, kaikki erot määrissä ovat merkityksettömiä. | Artikkeli puhuu maksan terveyden näkökulmasta ja yksilöllisistä tekijöistä. |
-| [[11 Availability Bias]] | 0.30 | Vahva varoitus voi jäädä mieleen enemmän kuin määrien ja taustatekijöiden erot. | Varoitus nojaa asiantuntijan lääketieteelliseen arvioon. |
+| [[27-zero-risk-bias|Nollariskiharha]] | 0.36 | Lukija voi tulkita, että koska nollariskirajaa ei ole, kaikki erot määrissä ovat merkityksettömiä. | Artikkeli puhuu maksan terveyden näkökulmasta ja yksilöllisistä tekijöistä. |
+| [[11-availability-bias|Saatavuusharha]] | 0.30 | Vahva varoitus voi jäädä mieleen enemmän kuin määrien ja taustatekijöiden erot. | Varoitus nojaa asiantuntijan lääketieteelliseen arvioon. |
 
 **Vaihtoehtoiset selitykset:**
 - Väestötason turvallisen rajan antaminen voi olla vaikeaa juuri yksilöllisen vaihtelun vuoksi.

@@ -32,8 +32,8 @@ Artikkeli käsittelee pientä ihmistutkimusta, jossa prebioottinen kuitulisä sa
 
 | Ajatusvirhe | Luottamus | Miksi se voi soveltua | Miksi se ei välttämättä sovellu |
 |---|---:|---|---|
-| [[58 Overoptimism Tendency]] | 0.62 | Ensimmäinen ihmiskoe ja pieni otos voivat herättää liian myönteisen kuvan tehosta. | Artikkeli kertoo, että kyse on tutkimuksesta eikä vakiintuneesta hoidosta. |
-| [[43 Framing]] | 0.70 | Sanat kuten yllättävä apu ja ei haittaa ohjaavat myönteiseen kokeilukehykseen. | Tekstissä mainitaan myös elintapamuutokset ensisijaisena hoitona. |
+| [[58-overoptimism|Yltiöoptimismi]] | 0.62 | Ensimmäinen ihmiskoe ja pieni otos voivat herättää liian myönteisen kuvan tehosta. | Artikkeli kertoo, että kyse on tutkimuksesta eikä vakiintuneesta hoidosta. |
+| [[43-framing|Kehystys]] | 0.70 | Sanat kuten yllättävä apu ja ei haittaa ohjaavat myönteiseen kokeilukehykseen. | Tekstissä mainitaan myös elintapamuutokset ensisijaisena hoitona. |
 
 **Vaihtoehtoiset selitykset:**
 - Kuitulisä voi olla aidosti lupaava täydentävä keino.
@@ -52,8 +52,8 @@ Artikkeli käsittelee pientä ihmistutkimusta, jossa prebioottinen kuitulisä sa
 
 | Ajatusvirhe | Luottamus | Miksi se voi soveltua | Miksi se ei välttämättä sovellu |
 |---|---:|---|---|
-| [[44 Action Bias]] | 0.46 | Lukija voi kokea, että kannattaa heti tehdä jotain, vaikka ensisijaiset keinot ovat elintavat. | Kuitulisä ei välttämättä ole riskialtis, jos sitä käytetään järkevästi. |
-| [[27 Zero Risk Bias]] | 0.38 | Haitattomuus voi kuulostaa lähes riskittömältä ratkaisulta. | Teksti ei väitä täydellistä riskittömyyttä kaikille. |
+| [[44-action-bias|Toimintaharha]] | 0.46 | Lukija voi kokea, että kannattaa heti tehdä jotain, vaikka ensisijaiset keinot ovat elintavat. | Kuitulisä ei välttämättä ole riskialtis, jos sitä käytetään järkevästi. |
+| [[27-zero-risk-bias|Nollariskiharha]] | 0.38 | Haitattomuus voi kuulostaa lähes riskittömältä ratkaisulta. | Teksti ei väitä täydellistä riskittömyyttä kaikille. |
 
 **Vaihtoehtoiset selitykset:**
 - Sitaatti voi olla käytännönläheinen neuvo pieniriskisestä lisästä.

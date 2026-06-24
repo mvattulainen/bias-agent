@@ -32,8 +32,8 @@ Artikkeli raportoi laajasta katsauksesta, jonka mukaan D-vitamiini- ja kalsiumli
 
 | Ajatusvirhe | Luottamus | Miksi se voi soveltua | Miksi se ei välttämättä sovellu |
 |---|---:|---|---|
-| [[43 Framing]] | 0.45 | Yllättävä uusi tieto voi saada tuloksen tuntumaan aiempien käsitysten kumoukselta. | Artikkeli kertoo myös rajaukset ja tutkimuksen laajuuden. |
-| [[29 Base Rate Neglect]] | 0.32 | Lukija voi unohtaa, että vaikutus riippuu lähtötasosta ja puutostiloista. | Tekstissä mainitaan, ettei tulos päde kaikkiin erityisryhmiin. |
+| [[43-framing|Kehystys]] | 0.45 | Yllättävä uusi tieto voi saada tuloksen tuntumaan aiempien käsitysten kumoukselta. | Artikkeli kertoo myös rajaukset ja tutkimuksen laajuuden. |
+| [[29-base-rate-neglect|Perusprosentin sivuuttaminen]] | 0.32 | Lukija voi unohtaa, että vaikutus riippuu lähtötasosta ja puutostiloista. | Tekstissä mainitaan, ettei tulos päde kaikkiin erityisryhmiin. |
 
 **Vaihtoehtoiset selitykset:**
 - Katsaus voi oikeasti muuttaa suositusten painotusta.
@@ -52,8 +52,8 @@ Artikkeli raportoi laajasta katsauksesta, jonka mukaan D-vitamiini- ja kalsiumli
 
 | Ajatusvirhe | Luottamus | Miksi se voi soveltua | Miksi se ei välttämättä sovellu |
 |---|---:|---|---|
-| [[11 Availability Bias]] | 0.34 | Yksittäinen tuore uutinen voi painaa enemmän kuin kokonaiskuva ravitsemussuosituksista. | Koska kyse on katsaustutkimuksesta, uutinen ei perustu vain yhteen pieneen havaintoon. |
-| [[43 Framing]] | 0.52 | Yllätyskehys voi ohjata lukemaan tuloksen jyrkkänä käännöksenä. | Leipäteksti pehmentää tätä kertomalla poikkeuksista. |
+| [[11-availability-bias|Saatavuusharha]] | 0.34 | Yksittäinen tuore uutinen voi painaa enemmän kuin kokonaiskuva ravitsemussuosituksista. | Koska kyse on katsaustutkimuksesta, uutinen ei perustu vain yhteen pieneen havaintoon. |
+| [[43-framing|Kehystys]] | 0.52 | Yllätyskehys voi ohjata lukemaan tuloksen jyrkkänä käännöksenä. | Leipäteksti pehmentää tätä kertomalla poikkeuksista. |
 
 **Vaihtoehtoiset selitykset:**
 - Otsikko voi olla vain journalistinen tapa kuvata uutta katsausta.

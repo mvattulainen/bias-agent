@@ -32,8 +32,8 @@ Artikkeli kertoo flavonoidirikkaan ruokavalion mahdollisista terveyshyödyistä.
 
 | Ajatusvirhe | Luottamus | Miksi se voi soveltua | Miksi se ei välttämättä sovellu |
 |---|---:|---|---|
-| [[43 Framing]] | 0.82 | Ihmeaine-sana ohjaa lukijan näkemään ravintotekijän poikkeuksellisen voimakkaana ratkaisuna. | Leipäteksti puhuu ruokavaliosta, ei vain yhdestä pilleristä. |
-| [[39 Halo Effect]] | 0.52 | Myönteinen terveysmaine voi levitä kaikkiin flavonoidilähteisiin, kuten suklaaseen, ilman määrien ja kokonaisuuden arviointia. | Artikkeli mainitsee monipuolisia lähteitä eikä väitä kaikkia yhtä hyödyllisiksi. |
+| [[43-framing|Kehystys]] | 0.82 | Ihmeaine-sana ohjaa lukijan näkemään ravintotekijän poikkeuksellisen voimakkaana ratkaisuna. | Leipäteksti puhuu ruokavaliosta, ei vain yhdestä pilleristä. |
+| [[39-halo-effect|Haloefekti]] | 0.52 | Myönteinen terveysmaine voi levitä kaikkiin flavonoidilähteisiin, kuten suklaaseen, ilman määrien ja kokonaisuuden arviointia. | Artikkeli mainitsee monipuolisia lähteitä eikä väitä kaikkia yhtä hyödyllisiksi. |
 
 **Vaihtoehtoiset selitykset:**
 - Flavonoidit voivat aidosti olla hyödyllinen osa kasvispainotteista ruokavaliota.
@@ -52,8 +52,8 @@ Artikkeli kertoo flavonoidirikkaan ruokavalion mahdollisista terveyshyödyistä.
 
 | Ajatusvirhe | Luottamus | Miksi se voi soveltua | Miksi se ei välttämättä sovellu |
 |---|---:|---|---|
-| [[38 False Causality]] | 0.44 | Havaintotutkimuksiin liittyvä yhteys voi tuntua suoralta suojavaikutukselta. | Artikkeli käyttää varovaista voi auttaa -kieltä. |
-| [[58 Overoptimism Tendency]] | 0.40 | Yksi ruokavalion osa voi näyttää helpolta ratkaisulta sydänriskiin. | Tekstissä huomioidaan ruokavalio laajempana kokonaisuutena. |
+| [[38-false-causality|Väärä kausaliteetti]] | 0.44 | Havaintotutkimuksiin liittyvä yhteys voi tuntua suoralta suojavaikutukselta. | Artikkeli käyttää varovaista voi auttaa -kieltä. |
+| [[58-overoptimism|Yltiöoptimismi]] | 0.40 | Yksi ruokavalion osa voi näyttää helpolta ratkaisulta sydänriskiin. | Tekstissä huomioidaan ruokavalio laajempana kokonaisuutena. |
 
 **Vaihtoehtoiset selitykset:**
 - Flavonoidipitoiset ruoat ovat usein muutenkin terveellisiä.

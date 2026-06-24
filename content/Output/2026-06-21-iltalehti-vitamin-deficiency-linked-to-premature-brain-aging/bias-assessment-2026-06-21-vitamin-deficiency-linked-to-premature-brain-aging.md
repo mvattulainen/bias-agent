@@ -32,8 +32,8 @@ Artikkeli kertoo tutkimuksesta, jossa matalat C-vitamiinipitoisuudet olivat yhte
 
 | Ajatusvirhe | Luottamus | Miksi se voi soveltua | Miksi se ei välttämättä sovellu |
 |---|---:|---|---|
-| [[38 False Causality]] | 0.67 | Yhteys harmaan aineen määrään ei vielä osoita, että C-vitamiinin lisääminen estää muutosta. | Artikkeli käyttää varovaisia sanoja kuten voi liittyä ja mahdollisesti. |
-| [[58 Overoptimism Tendency]] | 0.46 | Muokattava ravintotekijä voi tuntua helpolta ratkaisulta monimutkaiseen ikääntymiseen. | Teksti ei lupaa parannusta tai ehkäisyä. |
+| [[38-false-causality|Väärä kausaliteetti]] | 0.67 | Yhteys harmaan aineen määrään ei vielä osoita, että C-vitamiinin lisääminen estää muutosta. | Artikkeli käyttää varovaisia sanoja kuten voi liittyä ja mahdollisesti. |
+| [[58-overoptimism|Yltiöoptimismi]] | 0.46 | Muokattava ravintotekijä voi tuntua helpolta ratkaisulta monimutkaiseen ikääntymiseen. | Teksti ei lupaa parannusta tai ehkäisyä. |
 
 **Vaihtoehtoiset selitykset:**
 - C-vitamiini voi olla yksi osa terveellistä ruokavaliota.
@@ -52,8 +52,8 @@ Artikkeli kertoo tutkimuksesta, jossa matalat C-vitamiinipitoisuudet olivat yhte
 
 | Ajatusvirhe | Luottamus | Miksi se voi soveltua | Miksi se ei välttämättä sovellu |
 |---|---:|---|---|
-| [[43 Framing]] | 0.72 | Uhkaava kehys voi voimistaa lukijan huolta ja toimintahalua. | Aihe on aidosti terveyden kannalta merkityksellinen. |
-| [[26 Neglect of Probability]] | 0.38 | Jutussa ei anneta yksilötason todennäköisyyttä aivojen muutoksille. | Artikkeli ei väitä, että kaikille puutoksesta seuraa aivojen vanhenemista. |
+| [[43-framing|Kehystys]] | 0.72 | Uhkaava kehys voi voimistaa lukijan huolta ja toimintahalua. | Aihe on aidosti terveyden kannalta merkityksellinen. |
+| [[26-neglect-of-probability|Todennäköisyyden laiminlyönti]] | 0.38 | Jutussa ei anneta yksilötason todennäköisyyttä aivojen muutoksille. | Artikkeli ei väitä, että kaikille puutoksesta seuraa aivojen vanhenemista. |
 
 **Vaihtoehtoiset selitykset:**
 - Otsikko voi pyrkiä tiivistämään tutkimuksen löydöksen.

@@ -32,8 +32,8 @@ Artikkeli kertoo seurantatutkimuksesta, jossa keski-iän insuliiniresistenssi yh
 
 | Ajatusvirhe | Luottamus | Miksi se voi soveltua | Miksi se ei välttämättä sovellu |
 |---|---:|---|---|
-| [[38 False Causality]] | 0.64 | Yhteys voi kuulostaa syy-seuraussuhteelta, vaikka havaintotutkimus ei yksin osoita syytä. | Artikkeli käyttää useissa kohdissa varovaista yhteys-kieltä eikä väitä varmaa syytä. |
-| [[29 Base Rate Neglect]] | 0.48 | Otsikko ei kerro, kuinka yleistä Alzheimer tai muistimuutos on kyseisessä ryhmässä. | Artikkeli ei varsinaisesti laske yksilön sairastumisriskiä. |
+| [[38-false-causality|Väärä kausaliteetti]] | 0.64 | Yhteys voi kuulostaa syy-seuraussuhteelta, vaikka havaintotutkimus ei yksin osoita syytä. | Artikkeli käyttää useissa kohdissa varovaista yhteys-kieltä eikä väitä varmaa syytä. |
+| [[29-base-rate-neglect|Perusprosentin sivuuttaminen]] | 0.48 | Otsikko ei kerro, kuinka yleistä Alzheimer tai muistimuutos on kyseisessä ryhmässä. | Artikkeli ei varsinaisesti laske yksilön sairastumisriskiä. |
 
 **Vaihtoehtoiset selitykset:**
 - Insuliiniresistenssi voi olla yksi riskimerkki muiden joukossa.
@@ -52,8 +52,8 @@ Artikkeli kertoo seurantatutkimuksesta, jossa keski-iän insuliiniresistenssi yh
 
 | Ajatusvirhe | Luottamus | Miksi se voi soveltua | Miksi se ei välttämättä sovellu |
 |---|---:|---|---|
-| [[29 Base Rate Neglect]] | 0.55 | Pieni otos voi jäädä otsikon ja pitkän seurannan varjoon. | Pieni otos mainitaan tekstissä, joten rajoite on näkyvissä. |
-| [[03 Overconfidence Effect]] | 0.40 | Tulosten varmuus voi tuntua suuremmalta kuin pienen aineiston perusteella pitäisi. | Artikkeli ei itse esitä tuloksia lopullisena totuutena. |
+| [[29-base-rate-neglect|Perusprosentin sivuuttaminen]] | 0.55 | Pieni otos voi jäädä otsikon ja pitkän seurannan varjoon. | Pieni otos mainitaan tekstissä, joten rajoite on näkyvissä. |
+| [[03-overconfidence-effect|Ylivarmuusvaikutus]] | 0.40 | Tulosten varmuus voi tuntua suuremmalta kuin pienen aineiston perusteella pitäisi. | Artikkeli ei itse esitä tuloksia lopullisena totuutena. |
 
 **Vaihtoehtoiset selitykset:**
 - Kyse voi olla varhaisesta, hypoteesia tukevasta tutkimuksesta.
