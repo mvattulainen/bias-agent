@@ -4,7 +4,7 @@
 **Tekijä / julkaisija:** Heljä Salonen / Iltalehti  
 **Luettu:** 2026-06-24  
 **Kieli:** suomi  
-**Tulostiedosto:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-18-iltalehti-everyday-habit-may-protect-against-dementia/bias-assessment-2026-06-18-everyday-habit-may-protect-against-dementia.md`  
+**Tulostiedosto:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-18-iltalehti-everyday-habit-may-protect-against-dementia/index.md`  
 **Lähdekansio:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-18-iltalehti-yksi-arkinen-tapa-voi-suojata-dementialta-moni-tekee-sita-jo-nyt`
 
 ## Tiivistelmä

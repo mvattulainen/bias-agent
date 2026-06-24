@@ -4,7 +4,7 @@
 **Tekijä / julkaisija:** Silja Säily / Iltalehti  
 **Luettu:** 2026-06-24  
 **Kieli:** suomi  
-**Tulostiedosto:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-23-iltalehti-finnish-study-linked-to-alzheimers-disease/bias-assessment-2026-06-23-finnish-study-linked-to-alzheimers-disease.md`  
+**Tulostiedosto:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-23-iltalehti-finnish-study-linked-to-alzheimers-disease/index.md`  
 **Lähdekansio:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-23-iltalehti-suomalaistutkimus-talla-yhteys-alzheimerin-tautiin`
 
 ## Tiivistelmä

@@ -4,7 +4,7 @@
 **Tekijä / julkaisija:** Minna Nord / Iltalehti  
 **Luettu:** 2026-06-24  
 **Kieli:** suomi  
-**Tulostiedosto:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-21-iltalehti-groin-lump-can-mean-advanced-disease/bias-assessment-2026-06-21-groin-lump-can-mean-advanced-disease.md`  
+**Tulostiedosto:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-21-iltalehti-groin-lump-can-mean-advanced-disease/index.md`  
 **Lähdekansio:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-21-iltalehti-kun-nivuseen-kasvaa-tallainen-patti-sairaus-on-jo-pitkalla`
 
 ## Tiivistelmä

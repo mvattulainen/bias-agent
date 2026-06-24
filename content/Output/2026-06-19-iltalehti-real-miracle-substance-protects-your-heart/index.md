@@ -4,7 +4,7 @@
 **Tekijä / julkaisija:** Petra Sneck / Iltalehti  
 **Luettu:** 2026-06-24  
 **Kieli:** suomi  
-**Tulostiedosto:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-19-iltalehti-real-miracle-substance-protects-your-heart/bias-assessment-2026-06-19-real-miracle-substance-protects-your-heart.md`  
+**Tulostiedosto:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-19-iltalehti-real-miracle-substance-protects-your-heart/index.md`  
 **Lähdekansio:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-19-iltalehti-tama-todellinen-ihmeaine-suojaa-sydantasi`
 
 ## Tiivistelmä

@@ -4,7 +4,7 @@
 **Tekijä / julkaisija:** Petra Sneck / Iltalehti  
 **Luettu:** 2026-06-24  
 **Kieli:** suomi  
-**Tulostiedosto:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-20-iltalehti-many-finns-livers-at-risk-most-destructive-combination/bias-assessment-2026-06-20-many-finns-livers-at-risk-most-destructive-combination.md`  
+**Tulostiedosto:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-20-iltalehti-many-finns-livers-at-risk-most-destructive-combination/index.md`  
 **Lähdekansio:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-20-iltalehti-monen-suomalaisen-maksa-on-nyt-vaarassa-tama-yhdistelma-on-tuhoisin`
 
 ## Tiivistelmä

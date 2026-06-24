@@ -4,7 +4,7 @@
 **Tekijä / julkaisija:** Petra Sneck / Iltalehti  
 **Luettu:** 2026-06-24  
 **Kieli:** suomi  
-**Tulostiedosto:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-23-iltalehti-surprising-help-found-for-fatty-liver/bias-assessment-2026-06-23-surprising-help-found-for-fatty-liver.md`  
+**Tulostiedosto:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-23-iltalehti-surprising-help-found-for-fatty-liver/index.md`  
 **Lähdekansio:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-23-iltalehti-rasvamaksaan-loytyi-yllattava-apu-tutkija-kokeilusta-ei-ole-haittaa`
 
 ## Tiivistelmä

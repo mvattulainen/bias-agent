@@ -4,7 +4,7 @@
 **Tekijä / julkaisija:** Petra Sneck / Iltalehti  
 **Luettu:** 2026-06-24  
 **Kieli:** suomi  
-**Tulostiedosto:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-21-iltalehti-vitamin-deficiency-linked-to-premature-brain-aging/bias-assessment-2026-06-21-vitamin-deficiency-linked-to-premature-brain-aging.md`  
+**Tulostiedosto:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-21-iltalehti-vitamin-deficiency-linked-to-premature-brain-aging/index.md`  
 **Lähdekansio:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-21-iltalehti-taman-vitamiinin-puute-voi-liittya-aivojen-ennenaikaiseen-vanhenemiseen`
 
 ## Tiivistelmä

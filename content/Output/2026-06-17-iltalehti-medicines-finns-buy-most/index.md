@@ -4,7 +4,7 @@
 **Tekijä / julkaisija:** Silja Säily / Iltalehti  
 **Luettu:** 2026-06-24  
 **Kieli:** suomi  
-**Tulostiedosto:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-17-iltalehti-medicines-finns-buy-most/bias-assessment-2026-06-17-medicines-finns-buy-most.md`  
+**Tulostiedosto:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-17-iltalehti-medicines-finns-buy-most/index.md`  
 **Lähdekansio:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-17-iltalehti-naita-laakkeita-suomalaiset-ostavat-eniten`
 
 ## Tiivistelmä

@@ -4,7 +4,7 @@
 **Tekijä / julkaisija:** Heljä Salonen / Iltalehti  
 **Luettu:** 2026-06-24  
 **Kieli:** suomi  
-**Tulostiedosto:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-22-iltalehti-vitamin-d-and-calcium-surprising-new-information/bias-assessment-2026-06-22-vitamin-d-and-calcium-surprising-new-information.md`  
+**Tulostiedosto:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-22-iltalehti-vitamin-d-and-calcium-surprising-new-information/index.md`  
 **Lähdekansio:** `C:/Users/marku/Desktop/Knowledge_ bases/Ajatteluharhat/Wiki/Output/2026-06-22-iltalehti-d-vitamiini-ja-kalsium-yllattava-uusi-tieto`
 
 ## Tiivistelmä

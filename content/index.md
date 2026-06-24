@@ -94,13 +94,13 @@ tags:
 
 ## Output
 
-- [[Output/2026-06-17-iltalehti-medicines-finns-buy-most/bias-assessment-2026-06-17-medicines-finns-buy-most|2026 06 17 Iltalehti: Medicines Finns buy most]]
-- [[Output/2026-06-17-iltalehti-surprising-factor-may-trigger-stroke-under-50/bias-assessment-2026-06-17-surprising-factor-may-trigger-stroke-under-50|2026 06 17 Iltalehti: Surprising factor may trigger stroke under 50]]
-- [[Output/2026-06-18-iltalehti-everyday-habit-may-protect-against-dementia/bias-assessment-2026-06-18-everyday-habit-may-protect-against-dementia|2026 06 18 Iltalehti: Everyday habit may protect against dementia]]
-- [[Output/2026-06-19-iltalehti-real-miracle-substance-protects-your-heart/bias-assessment-2026-06-19-real-miracle-substance-protects-your-heart|2026 06 19 Iltalehti: Real miracle substance protects your heart]]
-- [[Output/2026-06-20-iltalehti-many-finns-livers-at-risk-most-destructive-combination/bias-assessment-2026-06-20-many-finns-livers-at-risk-most-destructive-combination|2026 06 20 Iltalehti: Many Finns' livers at risk]]
-- [[Output/2026-06-21-iltalehti-groin-lump-can-mean-advanced-disease/bias-assessment-2026-06-21-groin-lump-can-mean-advanced-disease|2026 06 21 Iltalehti: Groin lump can mean advanced disease]]
-- [[Output/2026-06-21-iltalehti-vitamin-deficiency-linked-to-premature-brain-aging/bias-assessment-2026-06-21-vitamin-deficiency-linked-to-premature-brain-aging|2026 06 21 Iltalehti: Vitamin deficiency linked to premature brain aging]]
-- [[Output/2026-06-22-iltalehti-vitamin-d-and-calcium-surprising-new-information/bias-assessment-2026-06-22-vitamin-d-and-calcium-surprising-new-information|2026 06 22 Iltalehti: Vitamin D and calcium surprising new information]]
-- [[Output/2026-06-23-iltalehti-finnish-study-linked-to-alzheimers-disease/bias-assessment-2026-06-23-finnish-study-linked-to-alzheimers-disease|2026 06 23 Iltalehti: Finnish study linked to Alzheimer's disease]]
-- [[Output/2026-06-23-iltalehti-surprising-help-found-for-fatty-liver/bias-assessment-2026-06-23-surprising-help-found-for-fatty-liver|2026 06 23 Iltalehti: Surprising help found for fatty liver]]
+- [[Output/2026-06-17-iltalehti-medicines-finns-buy-most/index|2026 06 17 Iltalehti: Medicines Finns buy most]]
+- [[Output/2026-06-17-iltalehti-surprising-factor-may-trigger-stroke-under-50/index|2026 06 17 Iltalehti: Surprising factor may trigger stroke under 50]]
+- [[Output/2026-06-18-iltalehti-everyday-habit-may-protect-against-dementia/index|2026 06 18 Iltalehti: Everyday habit may protect against dementia]]
+- [[Output/2026-06-19-iltalehti-real-miracle-substance-protects-your-heart/index|2026 06 19 Iltalehti: Real miracle substance protects your heart]]
+- [[Output/2026-06-20-iltalehti-many-finns-livers-at-risk-most-destructive-combination/index|2026 06 20 Iltalehti: Many Finns' livers at risk]]
+- [[Output/2026-06-21-iltalehti-groin-lump-can-mean-advanced-disease/index|2026 06 21 Iltalehti: Groin lump can mean advanced disease]]
+- [[Output/2026-06-21-iltalehti-vitamin-deficiency-linked-to-premature-brain-aging/index|2026 06 21 Iltalehti: Vitamin deficiency linked to premature brain aging]]
+- [[Output/2026-06-22-iltalehti-vitamin-d-and-calcium-surprising-new-information/index|2026 06 22 Iltalehti: Vitamin D and calcium surprising new information]]
+- [[Output/2026-06-23-iltalehti-finnish-study-linked-to-alzheimers-disease/index|2026 06 23 Iltalehti: Finnish study linked to Alzheimer's disease]]
+- [[Output/2026-06-23-iltalehti-surprising-help-found-for-fatty-liver/index|2026 06 23 Iltalehti: Surprising help found for fatty liver]]
