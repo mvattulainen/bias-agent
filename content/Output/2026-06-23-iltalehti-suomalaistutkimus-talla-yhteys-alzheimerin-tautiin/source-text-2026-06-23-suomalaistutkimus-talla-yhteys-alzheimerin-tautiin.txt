@@ -1,0 +1,18 @@
+TITLE: Suomalaistutkimus: Tällä yhteys Alzheimerin tautiin
+URL: https://www.iltalehti.fi/terveysuutiset/a/cd163ba5-1a06-4811-b3fe-2cd125719ac2
+AUTHORS: Silja Säily
+PUBLISHED: 2026-06-23T15:18:55+03:00
+
+BODY:
+Turun yliopiston, Turun valtakunnallisen PET-keskuksen ja Terveyden ja hyvinvoinnin laitoksen (THL) 20 vuoden seurantatutkimus osoittaa, että keski-iän insuliiniresistenssi altistaa tapahtumamuistin heikkenemiselle myöhäisiässä. Asia selviää Turun yliopiston tiedotteesta.
+Turun yliopiston väitöskirjatutkija Elina Pietilä tutki työryhmänsä kanssa, onko keski-iän insuliiniresistenssi yhteydessä tiedonkäsittelyn muutoksiin myöhemmin vanhuusiässä.
+Insuliiniresistenssi tarkoittaa elimistön alentunutta insuliiniherkkyyttä, jolloin insuliinin vaikutus kudoksissa on heikentynyt. Insuliiniresistenssi liittyy usein tyypin 2 diabetekseen, diabeteksen esiasteeseen ja keskivartalolihavuuteen.
+Lisäksi he tutkivat, onko beeta-amyloidi-proteiinin kerääntymisellä aivoihin yhteyttä tiedonkäsittelyn muutoksiin vanhuusiässä.
+Tutkimuksessa hyödynnettiin PET-kuvantamista, jolla voidaan tutkia beeta-amyloidi-proteiinin kerääntymistä, mitä pidetään Alzheimerin taudin varhaisena patologisena aivomuutoksena.
+Tutkimukseen osallistui 43 kognitiivisilta kyvyiltään tervettä vapaaehtoista. Osallistuneilta oli 55-vuotiaina määritetty heidän keski-iän insuliiniresistenssinsä ja paastoveren glukoosi- ja insuliinipitoisuutensa. Heidän kognitionsa testattiin noin 70 ja 75 vuoden iässä.
+Tutkimuksessa tarkasteltiin insuliiniresistenssin vaikutusta myöhäisiän kognitioon. Tällä tarkoitetaan eri tiedonkäsittelyn osa-alueiden kokonaisuutta, joka muodostuu toiminnanohjauksesta, tiedonkäsittelyn nopeudesta, kielellisistä toiminnoista ja muistista.
+Aiemmissa tutkimuksissa insuliiniresistenssi on yhdistetty kognition heikentymiseen ja dementiaan.
+42 tutkimukseen osallistuneen aivojen amyloidikertymää tutkittiin PET-kuvantamisella, kun he olivat noin 70-vuotiaita. Tutkimus suoritettiin valtakunnallisessa PET-keskuksessa Turussa.
+Tapahtumamuistin heikentymistä myöhäisiässä havaittiin enemmän niillä tutkimukseen osallistuneilla, joilla oli keski-iässä todettu insuliiniresistenssi.
+Havaittiin myös, että keski-iän insuliiniresistenssin vaikutus myöhäisiän tapahtumamuistin heikkenemiseen välittyy myöhäisiän aivojen amyloidikertymän kautta.
+– Tutkimuksessamme tutkittiin tietääksemme ensimmäistä kertaa keski-iän insuliiniresistenssin ja myöhäisiän tiedonkäsittelyn yhteyttä 20 vuoden seurantatutkimuksessa. Tuloksemme insuliiniresistenssin vaikutuksesta muistin heikkenemiseen viittaa insuliiniresistenssin ja Alzheimerin taudin yhteyteen, Pietilä kertoo.
