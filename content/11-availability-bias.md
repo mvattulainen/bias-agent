@@ -18,7 +18,7 @@ tags:
   - Batch/1
 ---
 
-[[Index|Index]] | Edellinen: [[10-contrast-effect|Kontrastivaikutus]] | Seuraava: [[12-it-gets-worse-before-it-gets-better-trap|'Ensin pahenee' -ansa]]
+[[Index|Index]] | Edellinen: [[10-contrast-effect|Kontrastivaikutus]] | Seuraava: [[12-it-gets-worse-before-it-gets-better-trap|‘Ensin pahenee’ -ansa]]
 
 **Kategoria:** Todennäköisyys ja tilastot
 
@@ -51,4 +51,4 @@ tags:
 
 ---
 
-[[Index|Index]] | Edellinen: [[10-contrast-effect|Kontrastivaikutus]] | Seuraava: [[12-it-gets-worse-before-it-gets-better-trap|'Ensin pahenee' -ansa]]
+[[Index|Index]] | Edellinen: [[10-contrast-effect|Kontrastivaikutus]] | Seuraava: [[12-it-gets-worse-before-it-gets-better-trap|‘Ensin pahenee’ -ansa]]

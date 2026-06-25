@@ -18,7 +18,7 @@ tags:
   - Batch/1
 ---
 
-[[Index|Index]] | Edellinen: [[12-it-gets-worse-before-it-gets-better-trap|'Ensin pahenee' -ansa]] | Seuraava: [[14-hindsight-bias|Jälkiviisausharha]]
+[[Index|Index]] | Edellinen: [[12-it-gets-worse-before-it-gets-better-trap|‘Ensin pahenee’ -ansa]] | Seuraava: [[14-hindsight-bias|Jälkiviisausharha]]
 
 **Kategoria:** Syy-seuraus ja tarinat
 
@@ -51,4 +51,4 @@ tags:
 
 ---
 
-[[Index|Index]] | Edellinen: [[12-it-gets-worse-before-it-gets-better-trap|'Ensin pahenee' -ansa]] | Seuraava: [[14-hindsight-bias|Jälkiviisausharha]]
+[[Index|Index]] | Edellinen: [[12-it-gets-worse-before-it-gets-better-trap|‘Ensin pahenee’ -ansa]] | Seuraava: [[14-hindsight-bias|Jälkiviisausharha]]
