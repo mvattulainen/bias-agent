@@ -1,4 +1,5 @@
 ---
+title: "Väärä kausaliteetti (False Causality)"
 tyyppi: ajatusvirhe
 numero: 38
 nimi: "Väärä kausaliteetti"

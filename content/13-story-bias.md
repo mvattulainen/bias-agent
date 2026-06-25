@@ -1,4 +1,5 @@
 ---
+title: "Tarinaharha (Story Bias)"
 tyyppi: ajatusvirhe
 numero: 13
 nimi: "Tarinaharha"

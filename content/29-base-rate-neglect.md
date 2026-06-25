@@ -1,4 +1,5 @@
 ---
+title: "Perusprosentin sivuuttaminen (Base-Rate Neglect)"
 tyyppi: ajatusvirhe
 numero: 29
 nimi: "Perusprosentin sivuuttaminen"

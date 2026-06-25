@@ -1,4 +1,5 @@
 ---
+title: "Auktoriteettiharha (Authority Bias)"
 tyyppi: ajatusvirhe
 numero: 9
 nimi: "Auktoriteettiharha"

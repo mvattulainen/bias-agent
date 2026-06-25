@@ -1,4 +1,5 @@
 ---
+title: "Reiluusreaktio (Kantian Fairness Tendency)"
 tyyppi: ajatusvirhe
 numero: 63
 nimi: "Reiluusreaktio"

@@ -1,4 +1,5 @@
 ---
+title: "Uhkapelaajan harha (Gambler’s Fallacy)"
 tyyppi: ajatusvirhe
 numero: 30
 nimi: "Uhkapelaajan harha"

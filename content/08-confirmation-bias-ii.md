@@ -1,4 +1,5 @@
 ---
+title: "Vahvistusharha II (Confirmation Bias II)"
 tyyppi: ajatusvirhe
 numero: 8
 nimi: "Vahvistusharha II"

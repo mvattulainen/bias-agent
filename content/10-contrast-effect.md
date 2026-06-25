@@ -1,4 +1,5 @@
 ---
+title: "Kontrastivaikutus (Contrast Effect)"
 tyyppi: ajatusvirhe
 numero: 10
 nimi: "Kontrastivaikutus"

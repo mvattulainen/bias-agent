@@ -1,4 +1,5 @@
 ---
+title: "Vaihtoehtoiset polut (Alternative Paths)"
 tyyppi: ajatusvirhe
 numero: 40
 nimi: "Vaihtoehtoiset polut"

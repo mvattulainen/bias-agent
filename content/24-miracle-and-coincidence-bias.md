@@ -1,4 +1,5 @@
 ---
+title: "Ihme-/sattumaharha (Miracle / Coincidence Bias)"
 tyyppi: ajatusvirhe
 numero: 24
 nimi: "Ihme-/sattumaharha"

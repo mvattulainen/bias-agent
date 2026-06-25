@@ -1,4 +1,5 @@
 ---
+title: "Eksponentiaalisen kasvun harha (Exponential Growth Bias)"
 tyyppi: ajatusvirhe
 numero: 35
 nimi: "Eksponentiaalisen kasvun harha"

@@ -1,4 +1,5 @@
 ---
+title: "Assosiaatioharha (Association Bias)"
 tyyppi: ajatusvirhe
 numero: 49
 nimi: "Assosiaatioharha"

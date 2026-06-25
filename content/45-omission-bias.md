@@ -1,4 +1,5 @@
 ---
+title: "Laiminlyöntiharha (Omission Bias)"
 tyyppi: ajatusvirhe
 numero: 45
 nimi: "Laiminlyöntiharha"

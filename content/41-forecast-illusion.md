@@ -1,4 +1,5 @@
 ---
+title: "Ennusteilluusio (Forecast Illusion)"
 tyyppi: ajatusvirhe
 numero: 41
 nimi: "Ennusteilluusio"

@@ -1,4 +1,5 @@
 ---
+title: "Kannustimien superreaktio (Incentive Super-Response Tendency)"
 tyyppi: ajatusvirhe
 numero: 17
 nimi: "Kannustimien superreaktio"

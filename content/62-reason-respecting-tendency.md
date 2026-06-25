@@ -1,4 +1,5 @@
 ---
+title: "Syyperustelun harha (Reason-Respecting Tendency)"
 tyyppi: ajatusvirhe
 numero: 62
 nimi: "Syyperustelun harha"

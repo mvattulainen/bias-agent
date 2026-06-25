@@ -1,4 +1,5 @@
 ---
+title: "Kateus- ja mustasukkaisuusharha (Envy / Jealousy Tendency)"
 tyyppi: ajatusvirhe
 numero: 56
 nimi: "Kateus- ja mustasukkaisuusharha"

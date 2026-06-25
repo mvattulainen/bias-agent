@@ -1,3 +1,7 @@
+---
+title: "Ajatusvirhearvio: Kun nivuseen kasvaa tällainen patti, sairaus on jo pitkällä"
+---
+
 # Ajatusvirhearvio: Kun nivuseen kasvaa tällainen patti, sairaus on jo pitkällä
 
 **Lähde:** https://www.iltalehti.fi/syopa/a/d2ff8241-d212-41a5-bf73-f0e90212cf75  

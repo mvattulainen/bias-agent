@@ -1,4 +1,5 @@
 ---
+title: "Miellyttämis-/pitämisharha (Liking Bias)"
 tyyppi: ajatusvirhe
 numero: 22
 nimi: "Miellyttämis-/pitämisharha"

@@ -1,4 +1,5 @@
 ---
+title: "Omistusharha (Endowment Effect)"
 tyyppi: ajatusvirhe
 numero: 23
 nimi: "Omistusharha"

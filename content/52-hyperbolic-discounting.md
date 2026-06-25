@@ -1,4 +1,5 @@
 ---
+title: "Hyperbolinen diskonttaus (Hyperbolic Discounting)"
 tyyppi: ajatusvirhe
 numero: 52
 nimi: "Hyperbolinen diskonttaus"

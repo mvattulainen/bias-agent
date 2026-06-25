@@ -1,3 +1,7 @@
+---
+title: "Ajatusvirhearvio: Monen suomalaisen maksa on nyt vaarassa – Tämä yhdistelmä on tuhoisin"
+---
+
 # Ajatusvirhearvio: Monen suomalaisen maksa on nyt vaarassa – Tämä yhdistelmä on tuhoisin
 
 **Lähde:** https://www.iltalehti.fi/elintavat/a/92331a67-08ae-48d7-9bc2-8c5c2ee8cd3b  

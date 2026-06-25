@@ -1,3 +1,7 @@
+---
+title: "Ajatusvirhearvio: Rasvamaksaan löytyi yllättävä apu – Tutkija: ”Kokeilusta ei ole haittaa”"
+---
+
 # Ajatusvirhearvio: Rasvamaksaan löytyi yllättävä apu – Tutkija: ”Kokeilusta ei ole haittaa”
 
 **Lähde:** https://www.iltalehti.fi/terveysuutiset/a/1a5b513c-a41c-41db-bb08-c63544ffb680  

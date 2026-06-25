@@ -1,4 +1,5 @@
 ---
+title: "Kehystys (Framing)"
 tyyppi: ajatusvirhe
 numero: 43
 nimi: "Kehystys"

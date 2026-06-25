@@ -1,4 +1,5 @@
 ---
+title: "Vahvistusharha I (Confirmation Bias I)"
 tyyppi: ajatusvirhe
 numero: 7
 nimi: "Vahvistusharha I"

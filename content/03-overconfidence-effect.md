@@ -1,4 +1,5 @@
 ---
+title: "Ylivarmuusvaikutus (Overconfidence Effect)"
 tyyppi: ajatusvirhe
 numero: 3
 nimi: "Ylivarmuusvaikutus"

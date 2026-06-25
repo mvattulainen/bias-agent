@@ -1,4 +1,5 @@
 ---
+title: "Tappionkarttaminen (Loss Aversion)"
 tyyppi: ajatusvirhe
 numero: 33
 nimi: "Tappionkarttaminen"

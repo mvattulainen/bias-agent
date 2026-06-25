@@ -1,4 +1,5 @@
 ---
+title: "Konjunktioharha (Conjunction Fallacy)"
 tyyppi: ajatusvirhe
 numero: 42
 nimi: "Konjunktioharha"

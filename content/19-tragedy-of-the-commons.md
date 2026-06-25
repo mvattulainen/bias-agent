@@ -1,4 +1,5 @@
 ---
+title: "Yhteismaan tragedia (Tragedy of the Commons)"
 tyyppi: ajatusvirhe
 numero: 19
 nimi: "Yhteismaan tragedia"

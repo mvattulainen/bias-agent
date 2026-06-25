@@ -1,4 +1,5 @@
 ---
+title: "Lopputulosharha (Outcome Bias)"
 tyyppi: ajatusvirhe
 numero: 20
 nimi: "Lopputulosharha"

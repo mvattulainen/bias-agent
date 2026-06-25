@@ -1,4 +1,5 @@
 ---
+title: "Palautuminen keskiarvoon (Regression to the Mean)"
 tyyppi: ajatusvirhe
 numero: 18
 nimi: "Palautuminen keskiarvoon"

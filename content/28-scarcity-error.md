@@ -1,4 +1,5 @@
 ---
+title: "Niukkuusvirhe (Scarcity Error)"
 tyyppi: ajatusvirhe
 numero: 28
 nimi: "Niukkuusvirhe"

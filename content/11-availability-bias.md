@@ -1,4 +1,5 @@
 ---
+title: "Saatavuusharha (Availability Bias)"
 tyyppi: ajatusvirhe
 numero: 11
 nimi: "Saatavuusharha"

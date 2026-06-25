@@ -1,4 +1,5 @@
 ---
+title: "Uimarin vartalo -illuusio (Swimmer’s Body Illusion)"
 tyyppi: ajatusvirhe
 numero: 2
 nimi: "Uimarin vartalo -illuusio"

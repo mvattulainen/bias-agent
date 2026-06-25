@@ -1,4 +1,5 @@
 ---
+title: "Aloittelijan onni (Beginner’s Luck)"
 tyyppi: ajatusvirhe
 numero: 50
 nimi: "Aloittelijan onni"

@@ -1,4 +1,5 @@
 ---
+title: "Selviytymisharha (Survivorship Bias)"
 tyyppi: ajatusvirhe
 numero: 1
 nimi: "Selviytymisharha"

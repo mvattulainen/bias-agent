@@ -1,4 +1,5 @@
 ---
+title: "Sosiaalinen todiste (Social Proof)"
 tyyppi: ajatusvirhe
 numero: 4
 nimi: "Sosiaalinen todiste"

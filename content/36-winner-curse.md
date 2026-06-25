@@ -1,4 +1,5 @@
 ---
+title: "Voittajan kirous (Winner’s Curse)"
 tyyppi: ajatusvirhe
 numero: 36
 nimi: "Voittajan kirous"

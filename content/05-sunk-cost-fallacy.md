@@ -1,4 +1,5 @@
 ---
+title: "Uponneiden kustannusten harha (Sunk Cost Fallacy)"
 tyyppi: ajatusvirhe
 numero: 5
 nimi: "Uponneiden kustannusten harha"

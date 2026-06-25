@@ -1,4 +1,5 @@
 ---
+title: "Haloefekti (Halo Effect)"
 tyyppi: ajatusvirhe
 numero: 39
 nimi: "Haloefekti"

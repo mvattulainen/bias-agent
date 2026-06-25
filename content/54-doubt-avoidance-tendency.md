@@ -1,4 +1,5 @@
 ---
+title: "Epävarmuuden välttely (Doubt-Avoidance Tendency)"
 tyyppi: ajatusvirhe
 numero: 54
 nimi: "Epävarmuuden välttely"

@@ -1,4 +1,5 @@
 ---
+title: "Ajatusvirheet kategorioittain"
 tyyppi: index
 nimi: "Ajatusvirheet kategorioittain"
 tags:

@@ -1,4 +1,5 @@
 ---
+title: "Jälkiviisausharha (Hindsight Bias)"
 tyyppi: ajatusvirhe
 numero: 14
 nimi: "Jälkiviisausharha"

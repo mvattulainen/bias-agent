@@ -1,4 +1,5 @@
 ---
+title: "Stressivaikutus (Stress-Influence Tendency)"
 tyyppi: ajatusvirhe
 numero: 60
 nimi: "Stressivaikutus"

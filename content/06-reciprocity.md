@@ -1,4 +1,5 @@
 ---
+title: "Vastavuoroisuus (Reciprocity)"
 tyyppi: ajatusvirhe
 numero: 6
 nimi: "Vastavuoroisuus"

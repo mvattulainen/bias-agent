@@ -1,4 +1,5 @@
 ---
+title: "Menetyksen ylireaktio (Deprival Super-Reaction Tendency)"
 tyyppi: ajatusvirhe
 numero: 59
 nimi: "Menetyksen ylireaktio"

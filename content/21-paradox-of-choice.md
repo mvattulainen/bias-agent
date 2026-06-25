@@ -1,4 +1,5 @@
 ---
+title: "Valinnan paradoksi (Paradox of Choice)"
 tyyppi: ajatusvirhe
 numero: 21
 nimi: "Valinnan paradoksi"

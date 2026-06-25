@@ -1,4 +1,5 @@
 ---
+title: "Ankkurointi (Anchoring)"
 tyyppi: ajatusvirhe
 numero: 31
 nimi: "Ankkurointi"

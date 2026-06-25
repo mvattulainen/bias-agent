@@ -1,4 +1,5 @@
 ---
+title: "Hallinnan illuusio (Illusion of Control)"
 tyyppi: ajatusvirhe
 numero: 16
 nimi: "Hallinnan illuusio"

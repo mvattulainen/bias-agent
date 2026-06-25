@@ -1,4 +1,5 @@
 ---
+title: "Perusattribuutiovirhe (Fundamental Attribution Error)"
 tyyppi: ajatusvirhe
 numero: 37
 nimi: "Perusattribuutiovirhe"

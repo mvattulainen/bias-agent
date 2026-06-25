@@ -1,4 +1,5 @@
 ---
+title: "Itsevalikoitumisharha (Self-Selection Bias)"
 tyyppi: ajatusvirhe
 numero: 48
 nimi: "Itsevalikoitumisharha"

@@ -1,4 +1,5 @@
 ---
+title: "Lollapalooza-vaikutus (Lollapalooza Effect)"
 tyyppi: ajatusvirhe
 numero: 64
 nimi: "Lollapalooza-vaikutus"

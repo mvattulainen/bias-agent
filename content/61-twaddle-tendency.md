@@ -1,4 +1,5 @@
 ---
+title: "Hölynpölytaipumus (Twaddle Tendency)"
 tyyppi: ajatusvirhe
 numero: 61
 nimi: "Hölynpölytaipumus"

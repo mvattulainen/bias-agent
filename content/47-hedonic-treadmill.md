@@ -1,4 +1,5 @@
 ---
+title: "Hedoninen oravanpyörä (Hedonic Treadmill)"
 tyyppi: ajatusvirhe
 numero: 47
 nimi: "Hedoninen oravanpyörä"

@@ -1,4 +1,5 @@
 ---
+title: "‘Ensin pahenee’ -ansa"
 tyyppi: ajatusvirhe
 numero: 12
 nimi: "‘Ensin pahenee’ -ansa"

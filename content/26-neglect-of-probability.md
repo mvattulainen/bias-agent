@@ -1,4 +1,5 @@
 ---
+title: "Todennäköisyyden laiminlyönti (Neglect of Probability)"
 tyyppi: ajatusvirhe
 numero: 26
 nimi: "Todennäköisyyden laiminlyönti"

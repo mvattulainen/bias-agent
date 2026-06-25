@@ -1,4 +1,5 @@
 ---
+title: "Induktioharha (Induction)"
 tyyppi: ajatusvirhe
 numero: 32
 nimi: "Induktioharha"

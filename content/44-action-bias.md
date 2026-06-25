@@ -1,4 +1,5 @@
 ---
+title: "Toimintaharha (Action Bias)"
 tyyppi: ajatusvirhe
 numero: 44
 nimi: "Toimintaharha"

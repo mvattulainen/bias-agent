@@ -1,4 +1,5 @@
 ---
+title: "Psykologinen kieltäminen (Psychological Denial)"
 tyyppi: ajatusvirhe
 numero: 57
 nimi: "Psykologinen kieltäminen"

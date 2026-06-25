@@ -1,4 +1,5 @@
 ---
+title: "Kognitiivinen dissonanssi (Cognitive Dissonance)"
 tyyppi: ajatusvirhe
 numero: 51
 nimi: "Kognitiivinen dissonanssi"

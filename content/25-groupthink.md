@@ -1,4 +1,5 @@
 ---
+title: "Ryhmäajattelu (Groupthink)"
 tyyppi: ajatusvirhe
 numero: 25
 nimi: "Ryhmäajattelu"

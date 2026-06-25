@@ -1,4 +1,5 @@
 ---
+title: "Yltiöoptimismi (Overoptimism Tendency)"
 tyyppi: ajatusvirhe
 numero: 58
 nimi: "Yltiöoptimismi"

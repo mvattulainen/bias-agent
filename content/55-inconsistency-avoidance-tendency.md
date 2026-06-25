@@ -1,4 +1,5 @@
 ---
+title: "Johdonmukaisuuden jäykkyys (Inconsistency-Avoidance Tendency)"
 tyyppi: ajatusvirhe
 numero: 55
 nimi: "Johdonmukaisuuden jäykkyys"

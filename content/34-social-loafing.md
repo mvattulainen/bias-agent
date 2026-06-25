@@ -1,4 +1,5 @@
 ---
+title: "Sosiaalinen vetelehtiminen (Social Loafing)"
 tyyppi: ajatusvirhe
 numero: 34
 nimi: "Sosiaalinen vetelehtiminen"

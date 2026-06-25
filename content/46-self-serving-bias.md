@@ -1,4 +1,5 @@
 ---
+title: "Itseä palveleva harha (Self-Serving Bias)"
 tyyppi: ajatusvirhe
 numero: 46
 nimi: "Itseä palveleva harha"

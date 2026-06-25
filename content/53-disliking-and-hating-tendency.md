@@ -1,4 +1,5 @@
 ---
+title: "Inhoamis- ja vihaharha (Disliking / Hating Tendency)"
 tyyppi: ajatusvirhe
 numero: 53
 nimi: "Inhoamis- ja vihaharha"

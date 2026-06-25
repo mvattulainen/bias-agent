@@ -1,4 +1,5 @@
 ---
+title: "Nollariskiharha (Zero-Risk Bias)"
 tyyppi: ajatusvirhe
 numero: 27
 nimi: "Nollariskiharha"
