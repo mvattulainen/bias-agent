@@ -2,8 +2,6 @@
 title: "Ajatusvirhearvio: D-vitamiini ja kalsium: Yllättävä uusi tieto"
 ---
 
-# Ajatusvirhearvio: D-vitamiini ja kalsium: Yllättävä uusi tieto 
-
 **Lähde:** https://www.iltalehti.fi/terveysuutiset/a/31f075d0-43da-4fbb-91c6-6abcc5b76513  
 **Tekijä / julkaisija:** Heljä Salonen / Iltalehti  
 **Luettu:** 2026-06-24  

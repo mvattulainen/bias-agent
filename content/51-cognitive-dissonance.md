@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[50-beginner-luck|Aloittelijan onni]] | Seuraava: [[52-hyperbolic-discounting|Hyperbolinen diskonttaus]]
 
-# Kognitiivinen dissonanssi (Cognitive Dissonance)
-
 **Kategoria:** Itsearviointi ja uskomukset
 
 **Määritelmä:** Muokkaamme tulkintoja vähentääksemme ristiriitaa tekojemme, uskomustemme ja tosiasioiden välillä.

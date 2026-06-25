@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[46-self-serving-bias|Itseä palveleva harha]] | Seuraava: [[48-self-selection-bias|Itsevalikoitumisharha]]
 
-# Hedoninen oravanpyörä (Hedonic Treadmill)
-
 **Kategoria:** Hyvinvointi ja ajankäyttö
 
 **Määritelmä:** Sopeudumme nopeasti myönteisiin ja kielteisiin muutoksiin, jolloin onnellisuus palaa usein lähelle lähtötasoa.

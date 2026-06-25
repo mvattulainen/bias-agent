@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[40-alternative-paths|Vaihtoehtoiset polut]] | Seuraava: [[42-conjunction-fallacy|Konjunktioharha]]
 
-# Ennusteilluusio (Forecast Illusion)
-
 **Kategoria:** Ennustaminen ja asiantuntijuus
 
 **Määritelmä:** Yliarvostamme ennusteita ja ennustajia, vaikka monimutkaisten järjestelmien tarkka ennustaminen on usein heikkoa.

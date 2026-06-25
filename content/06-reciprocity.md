@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[05-sunk-cost-fallacy|Uponneiden kustannusten harha]] | Seuraava: [[07-confirmation-bias-i|Vahvistusharha I]]
 
-# Vastavuoroisuus (Reciprocity)
-
 **Kategoria:** Sosiaalinen vaikutus ja ryhmät
 
 **Määritelmä:** Koemme velvollisuutta maksaa palvelus takaisin, vaikka alkuperäinen ele olisi pieni, strateginen tai pyytämätön.

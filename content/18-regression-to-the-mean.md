@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[17-incentive-super-response-tendency|Kannustimien superreaktio]] | Seuraava: [[19-tragedy-of-the-commons|Yhteismaan tragedia]]
 
-# Palautuminen keskiarvoon (Regression to the Mean)
-
 **Kategoria:** Todennäköisyys ja tilastot
 
 **Määritelmä:** Poikkeuksellisen hyvä tai huono tulos seuraa usein luonnostaan lähempänä keskiarvoa olevaa tulosta, ilman erityistä syytä.

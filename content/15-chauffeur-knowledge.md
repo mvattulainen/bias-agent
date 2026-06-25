@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[14-hindsight-bias|Jälkiviisausharha]] | Seuraava: [[16-illusion-of-control|Hallinnan illuusio]]
 
-# Kuljettajatieto (Chauffeur Knowledge)
-
 **Kategoria:** Ennustaminen ja asiantuntijuus
 
 **Määritelmä:** Sekoitamme sujuvan esityksen todelliseen ymmärrykseen: ihminen voi toistaa asiantuntijapuhetta osaamatta soveltaa sitä.

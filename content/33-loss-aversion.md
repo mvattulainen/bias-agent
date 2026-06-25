@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[32-induction-bias|Induktioharha]] | Seuraava: [[34-social-loafing|Sosiaalinen vetelehtiminen]]
 
-# Tappionkarttaminen (Loss Aversion)
-
 **Kategoria:** Päätöksenteko ja riskit
 
 **Määritelmä:** Tappiot tuntuvat psykologisesti voimakkaammilta kuin samansuuruiset voitot.

@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[18-regression-to-the-mean|Palautuminen keskiarvoon]] | Seuraava: [[20-outcome-bias|Lopputulosharha]]
 
-# Yhteismaan tragedia (Tragedy of the Commons)
-
 **Kategoria:** Kannustimet ja arvonmuodostus
 
 **Määritelmä:** Yhteistä resurssia ylikäytetään, kun hyöty tulee yksilölle mutta kustannus jakautuu kaikille.

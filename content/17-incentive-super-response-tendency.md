@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[16-illusion-of-control|Hallinnan illuusio]] | Seuraava: [[18-regression-to-the-mean|Palautuminen keskiarvoon]]
 
-# Kannustimien superreaktio (Incentive Super-Response Tendency)
-
 **Kategoria:** Kannustimet ja arvonmuodostus
 
 **Määritelmä:** Ihmiset mukautuvat voimakkaasti palkkioihin ja rangaistuksiin, usein myös järjestelmän tarkoituksen vastaisesti.

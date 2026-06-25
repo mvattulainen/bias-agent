@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[24-miracle-and-coincidence-bias|Ihme-/sattumaharha]] | Seuraava: [[26-neglect-of-probability|Todennäköisyyden laiminlyönti]]
 
-# Ryhmäajattelu (Groupthink)
-
 **Kategoria:** Sosiaalinen vaikutus ja ryhmät
 
 **Määritelmä:** Ryhmä hakee yksimielisyyttä niin voimakkaasti, että kriittinen arviointi ja vaihtoehdot tukahdutetaan.

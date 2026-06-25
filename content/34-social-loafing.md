@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[33-loss-aversion|Tappionkarttaminen]] | Seuraava: [[35-exponential-growth-bias|Eksponentiaalisen kasvun harha]]
 
-# Sosiaalinen vetelehtiminen (Social Loafing)
-
 **Kategoria:** Sosiaalinen vaikutus ja ryhmät
 
 **Määritelmä:** Yksilö ponnistelee vähemmän, kun oma panos hukkuu ryhmän kokonaissuoritukseen.

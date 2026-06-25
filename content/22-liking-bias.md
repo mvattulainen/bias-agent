@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[21-paradox-of-choice|Valinnan paradoksi]] | Seuraava: [[23-endowment-effect|Omistusharha]]
 
-# Miellyttämis-/pitämisharha (Liking Bias)
-
 **Kategoria:** Sosiaalinen vaikutus ja ryhmät
 
 **Määritelmä:** Uskomme ja autamme helpommin ihmisiä, joista pidämme tai jotka muistuttavat meitä.

@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[01-survivorship-bias|Selviytymisharha]] | Seuraava: [[03-overconfidence-effect|Ylivarmuusvaikutus]]
 
-# Uimarin vartalo -illuusio (Swimmer’s Body Illusion)
-
 **Kategoria:** Otantaharhat ja valikoituminen
 
 **Määritelmä:** Sekoitamme valikoitumisen ja vaikutuksen: jokin ominaisuus voi olla syy siihen, että henkilö päätyy tiettyyn lajiin tai instituutioon, ei tulos siitä.

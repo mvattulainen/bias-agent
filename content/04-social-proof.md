@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[03-overconfidence-effect|Ylivarmuusvaikutus]] | Seuraava: [[05-sunk-cost-fallacy|Uponneiden kustannusten harha]]
 
-# Sosiaalinen todiste (Social Proof)
-
 **Kategoria:** Sosiaalinen vaikutus ja ryhmät
 
 **Määritelmä:** Pidämme toimintaa oikeana, koska moni muu tekee niin tai uskoo niin.

@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[28-scarcity-error|Niukkuusvirhe]] | Seuraava: [[30-gambler-fallacy|Uhkapelaajan harha]]
 
-# Perusprosentin sivuuttaminen (Base-Rate Neglect)
-
 **Kategoria:** Todennäköisyys ja tilastot
 
 **Määritelmä:** Sivuutamme yleisen esiintyvyyden ja nojaamme kuvailevaan yksityiskohtaan.

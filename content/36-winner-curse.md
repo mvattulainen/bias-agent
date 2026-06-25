@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[35-exponential-growth-bias|Eksponentiaalisen kasvun harha]] | Seuraava: [[37-fundamental-attribution-error|Perusattribuutiovirhe]]
 
-# Voittajan kirous (Winner’s Curse)
-
 **Kategoria:** Kannustimet ja arvonmuodostus
 
 **Määritelmä:** Kilpailullisessa tarjouksessa voittaja on usein se, joka yliarvioi kohteen arvon eniten.

@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[09-authority-bias|Auktoriteettiharha]] | Seuraava: [[11-availability-bias|Saatavuusharha]]
 
-# Kontrastivaikutus (Contrast Effect)
-
 **Kategoria:** Havaitseminen ja kehystäminen
 
 **Määritelmä:** Arvio muuttuu sen mukaan, mihin kohdetta verrataan juuri ennen tai rinnalla.

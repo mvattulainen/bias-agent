@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[08-confirmation-bias-ii|Vahvistusharha II]] | Seuraava: [[10-contrast-effect|Kontrastivaikutus]]
 
-# Auktoriteettiharha (Authority Bias)
-
 **Kategoria:** Sosiaalinen vaikutus ja ryhmät
 
 **Määritelmä:** Annamme liikaa painoa auktoriteetin, tittelin, maineen tai asiantuntijaroolin sanomisille.

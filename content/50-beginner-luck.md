@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[49-association-bias|Assosiaatioharha]] | Seuraava: [[51-cognitive-dissonance|Kognitiivinen dissonanssi]]
 
-# Aloittelijan onni (Beginner’s Luck)
-
 **Kategoria:** Todennäköisyys ja tilastot
 
 **Määritelmä:** Varhainen satunnainen menestys tulkitaan taidoksi, mikä lisää riskinottoa.

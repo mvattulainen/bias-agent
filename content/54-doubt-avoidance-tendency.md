@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[53-disliking-and-hating-tendency|Inhoamis- ja vihaharha]] | Seuraava: [[55-inconsistency-avoidance-tendency|Johdonmukaisuuden jäykkyys]]
 
-# Epävarmuuden välttely (Doubt-Avoidance Tendency)
-
 **Kategoria:** Päätöksenteko ja riskit
 
 **Määritelmä:** Pyrimme poistamaan epävarmuuden liian nopeasti ja tartumme ensimmäiseen selitykseen tai päätökseen, joka lopettaa epämukavan epätietoisuuden.

@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[44-action-bias|Toimintaharha]] | Seuraava: [[46-self-serving-bias|Itseä palveleva harha]]
 
-# Laiminlyöntiharha (Omission Bias)
-
 **Kategoria:** Päätöksenteko ja riskit
 
 **Määritelmä:** Pidämme haitallista tekemättä jättämistä vähemmän moitittavana kuin yhtä haitallista aktiivista tekoa.

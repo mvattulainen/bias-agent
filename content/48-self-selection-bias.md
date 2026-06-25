@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[47-hedonic-treadmill|Hedoninen oravanpyörä]] | Seuraava: [[49-association-bias|Assosiaatioharha]]
 
-# Itsevalikoitumisharha (Self-Selection Bias)
-
 **Kategoria:** Otantaharhat ja valikoituminen
 
 **Määritelmä:** Tulos vääristyy, kun ihmiset valitseutuvat itse mukaan otokseen tai havaintoon.

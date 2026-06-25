@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[42-conjunction-fallacy|Konjunktioharha]] | Seuraava: [[44-action-bias|Toimintaharha]]
 
-# Kehystys (Framing)
-
 **Kategoria:** Havaitseminen ja kehystäminen
 
 **Määritelmä:** Sama informaatio johtaa eri päätökseen riippuen siitä, esitetäänkö se voittona, tappiona, riskinä, prosenttina tai tarinana.

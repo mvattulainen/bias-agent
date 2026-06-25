@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[57-psychological-denial|Psykologinen kieltäminen]] | Seuraava: [[59-deprival-super-reaction-tendency|Menetyksen ylireaktio]]
 
-# Yltiöoptimismi (Overoptimism Tendency)
-
 **Kategoria:** Itsearviointi ja uskomukset
 
 **Määritelmä:** Arvioimme tulevat tulokset, riskit ja omat mahdollisuutemme liian myönteisesti suhteessa näyttöön.

@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[15-chauffeur-knowledge|Kuljettajatieto]] | Seuraava: [[17-incentive-super-response-tendency|Kannustimien superreaktio]]
 
-# Hallinnan illuusio (Illusion of Control)
-
 **Kategoria:** Itsearviointi ja uskomukset
 
 **Määritelmä:** Uskomme voivamme vaikuttaa sattumanvaraisiin tai meistä riippumattomiin lopputuloksiin.

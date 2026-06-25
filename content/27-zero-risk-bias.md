@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[26-neglect-of-probability|Todennäköisyyden laiminlyönti]] | Seuraava: [[28-scarcity-error|Niukkuusvirhe]]
 
-# Nollariskiharha (Zero-Risk Bias)
-
 **Kategoria:** Päätöksenteko ja riskit
 
 **Määritelmä:** Suosimme pienen riskin täydellistä poistamista suuremman kokonaisriskin osittaisen vähentämisen sijaan.

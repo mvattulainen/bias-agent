@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[20-outcome-bias|Lopputulosharha]] | Seuraava: [[22-liking-bias|Miellyttämis-/pitämisharha]]
 
-# Valinnan paradoksi (Paradox of Choice)
-
 **Kategoria:** Päätöksenteko ja riskit
 
 **Määritelmä:** Liian suuri vaihtoehtojen määrä voi lamaannuttaa, heikentää päätöstä ja lisätä katumusta.

@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[29-base-rate-neglect|Perusprosentin sivuuttaminen]] | Seuraava: [[31-anchoring|Ankkurointi]]
 
-# Uhkapelaajan harha (Gambler’s Fallacy)
-
 **Kategoria:** Todennäköisyys ja tilastot
 
 **Määritelmä:** Uskomme, että riippumattomat satunnaistapahtumat korjaavat lyhyellä aikavälillä itseään.

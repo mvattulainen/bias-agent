@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[22-liking-bias|Miellyttämis-/pitämisharha]] | Seuraava: [[24-miracle-and-coincidence-bias|Ihme-/sattumaharha]]
 
-# Omistusharha (Endowment Effect)
-
 **Kategoria:** Kannustimet ja arvonmuodostus
 
 **Määritelmä:** Arvostamme esinettä, oikeutta tai ideaa enemmän vain siksi, että koemme sen omaksemme.

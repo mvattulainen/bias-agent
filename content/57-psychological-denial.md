@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[56-envy-and-jealousy-tendency|Kateus- ja mustasukkaisuusharha]] | Seuraava: [[58-overoptimism|Yltiöoptimismi]]
 
-# Psykologinen kieltäminen (Psychological Denial)
-
 **Kategoria:** Itsearviointi ja uskomukset
 
 **Määritelmä:** Torjumme tai vähättelemme tuskallista todellisuutta, koska sen hyväksyminen olisi tunneperäisesti liian raskasta.

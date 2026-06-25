@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[48-self-selection-bias|Itsevalikoitumisharha]] | Seuraava: [[50-beginner-luck|Aloittelijan onni]]
 
-# Assosiaatioharha (Association Bias)
-
 **Kategoria:** Syy-seuraus ja tarinat
 
 **Määritelmä:** Yhdistämme kaksi asiaa toisiinsa, koska ne esiintyivät yhdessä, vaikka yhteys olisi sattumaa tai epäolennainen.

@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[25-groupthink|Ryhmäajattelu]] | Seuraava: [[27-zero-risk-bias|Nollariskiharha]]
 
-# Todennäköisyyden laiminlyönti (Neglect of Probability)
-
 **Kategoria:** Todennäköisyys ja tilastot
 
 **Määritelmä:** Reagoimme lopputuloksen pelottavuuteen tai houkuttelevuuteen enemmän kuin sen todennäköisyyteen.

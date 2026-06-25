@@ -2,8 +2,6 @@
 title: "Ajatusvirhearvio: Tämä todellinen ”ihmeaine” suojaa sydäntäsi"
 ---
 
-# Ajatusvirhearvio: Tämä todellinen ”ihmeaine” suojaa sydäntäsi
-
 **Lähde:** https://www.iltalehti.fi/elintavat/a/ccbfdd58-02ce-4ac6-836b-5160831eaeb9  
 **Tekijä / julkaisija:** Petra Sneck / Iltalehti  
 **Luettu:** 2026-06-24  

@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[43-framing|Kehystys]] | Seuraava: [[45-omission-bias|Laiminlyöntiharha]]
 
-# Toimintaharha (Action Bias)
-
 **Kategoria:** Päätöksenteko ja riskit
 
 **Määritelmä:** Teemme mieluummin jotakin kuin odotamme, vaikka passiivisuus olisi parempi vaihtoehto.

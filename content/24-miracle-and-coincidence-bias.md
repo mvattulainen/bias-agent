@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[23-endowment-effect|Omistusharha]] | Seuraava: [[25-groupthink|Ryhmäajattelu]]
 
-# Ihme-/sattumaharha (Miracle / Coincidence Bias)
-
 **Kategoria:** Todennäköisyys ja tilastot
 
 **Määritelmä:** Pidämme osumia yliluonnollisina tai poikkeuksellisina, koska emme huomioi valtavaa määrää mahdollisia ei-osumia.

@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[19-tragedy-of-the-commons|Yhteismaan tragedia]] | Seuraava: [[21-paradox-of-choice|Valinnan paradoksi]]
 
-# Lopputulosharha (Outcome Bias)
-
 **Kategoria:** Päätöksenteko ja riskit
 
 **Määritelmä:** Arvioimme päätöksen laatua lopputuloksen perusteella emmekä sen perusteella, oliko prosessi järkevä päätöshetken tiedolla.

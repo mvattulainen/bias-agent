@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[37-fundamental-attribution-error|Perusattribuutiovirhe]] | Seuraava: [[39-halo-effect|Haloefekti]]
 
-# Väärä kausaliteetti (False Causality)
-
 **Kategoria:** Syy-seuraus ja tarinat
 
 **Määritelmä:** Sekoitamme korrelaation, ajallisen peräkkäisyyden tai tarinallisen sopivuuden todelliseen syy-yhteyteen.

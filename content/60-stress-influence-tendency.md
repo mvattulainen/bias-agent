@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[59-deprival-super-reaction-tendency|Menetyksen ylireaktio]] | Seuraava: [[61-twaddle-tendency|Hölynpölytaipumus]]
 
-# Stressivaikutus (Stress-Influence Tendency)
-
 **Kategoria:** Päätöksenteko ja riskit
 
 **Määritelmä:** Kova stressi kaventaa ajattelua, vahvistaa automaattisia reaktioita ja heikentää kykyä arvioida vaihtoehtoja rauhallisesti.

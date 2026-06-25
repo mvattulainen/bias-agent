@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[51-cognitive-dissonance|Kognitiivinen dissonanssi]] | Seuraava: [[53-disliking-and-hating-tendency|Inhoamis- ja vihaharha]]
 
-# Hyperbolinen diskonttaus (Hyperbolic Discounting)
-
 **Kategoria:** Hyvinvointi ja ajankäyttö
 
 **Määritelmä:** Arvostamme välittömiä palkintoja suhteettoman paljon verrattuna suurempiin tuleviin hyötyihin.

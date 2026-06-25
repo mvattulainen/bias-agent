@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[55-inconsistency-avoidance-tendency|Johdonmukaisuuden jäykkyys]] | Seuraava: [[57-psychological-denial|Psykologinen kieltäminen]]
 
-# Kateus- ja mustasukkaisuusharha (Envy / Jealousy Tendency)
-
 **Kategoria:** Sosiaalinen vaikutus ja ryhmät
 
 **Määritelmä:** Toisten etu, menestys tai huomio saa oman tilanteen näyttämään huonommalta ja ohjaa arvioita suhteellisen aseman kautta.

@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[27-zero-risk-bias|Nollariskiharha]] | Seuraava: [[29-base-rate-neglect|Perusprosentin sivuuttaminen]]
 
-# Niukkuusvirhe (Scarcity Error)
-
 **Kategoria:** Kannustimet ja arvonmuodostus
 
 **Määritelmä:** Pidämme asiaa arvokkaampana, koska se on harvinainen, rajattu tai pian katoamassa.

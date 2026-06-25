@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[60-stress-influence-tendency|Stressivaikutus]] | Seuraava: [[62-reason-respecting-tendency|Syyperustelun harha]]
 
-# Hölynpölytaipumus (Twaddle Tendency)
-
 **Kategoria:** Ennustaminen ja asiantuntijuus
 
 **Määritelmä:** Tuotamme tai hyväksymme puhetta, joka kuulostaa asiantuntevalta mutta ei lisää tarkkuutta, testattavuutta tai ymmärrystä.

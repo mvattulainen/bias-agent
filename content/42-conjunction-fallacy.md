@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[41-forecast-illusion|Ennusteilluusio]] | Seuraava: [[43-framing|Kehystys]]
 
-# Konjunktioharha (Conjunction Fallacy)
-
 **Kategoria:** Todennäköisyys ja tilastot
 
 **Määritelmä:** Pidämme yksityiskohtaista yhdistelmää todennäköisempänä kuin laajempaa luokkaa, vaikka yhdistelmä ei voi olla todennäköisempi kuin sen osa.

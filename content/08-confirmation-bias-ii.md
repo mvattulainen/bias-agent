@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[07-confirmation-bias-i|Vahvistusharha I]] | Seuraava: [[09-authority-bias|Auktoriteettiharha]]
 
-# Vahvistusharha II (Confirmation Bias II)
-
 **Kategoria:** Itsearviointi ja uskomukset
 
 **Määritelmä:** Rakennamme suosikkiteorioiden ympärille selityksiä, jotka tekevät teoriasta näennäisesti immuunin vastanäytölle.

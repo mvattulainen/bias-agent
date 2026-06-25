@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[02-swimmer-body-illusion|Uimarin vartalo -illuusio]] | Seuraava: [[04-social-proof|Sosiaalinen todiste]]
 
-# Ylivarmuusvaikutus (Overconfidence Effect)
-
 **Kategoria:** Itsearviointi ja uskomukset
 
 **Määritelmä:** Yliarvioimme järjestelmällisesti tietomme, taitomme, ennusteemme ja kontrollimme etenkin monimutkaisissa asioissa.

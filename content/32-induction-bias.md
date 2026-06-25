@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[31-anchoring|Ankkurointi]] | Seuraava: [[33-loss-aversion|Tappionkarttaminen]]
 
-# Induktioharha (Induction)
-
 **Kategoria:** Syy-seuraus ja tarinat
 
 **Määritelmä:** Päättelemme menneen toistuvuuden perusteella liian varmasti, että sama jatkuu tulevaisuudessa.

@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Seuraava: [[02-swimmer-body-illusion|Uimarin vartalo -illuusio]]
 
-# Selviytymisharha (Survivorship Bias)
-
 **Kategoria:** Otantaharhat ja valikoituminen
 
 **Määritelmä:** Arvioimme onnistumisen todennäköisyyttä katsomalla vain niitä, jotka selvisivät tai menestyivät, ja sivuutamme epäonnistuneet tapaukset, jotka eivät ole enää näkyvissä.

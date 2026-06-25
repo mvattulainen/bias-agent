@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[34-social-loafing|Sosiaalinen vetelehtiminen]] | Seuraava: [[36-winner-curse|Voittajan kirous]]
 
-# Eksponentiaalisen kasvun harha (Exponential Growth Bias)
-
 **Kategoria:** Todennäköisyys ja tilastot
 
 **Määritelmä:** Aliarvioimme eksponentiaalista kasvua, koska ajattelemme luontevammin lineaarisesti.

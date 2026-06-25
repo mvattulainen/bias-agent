@@ -2,8 +2,6 @@
 title: "Ajatusvirhearvio: Näitä lääkkeitä suomalaiset ostavat eniten"
 ---
 
-# Ajatusvirhearvio: Näitä lääkkeitä suomalaiset ostavat eniten
-
 **Lähde:** https://www.iltalehti.fi/terveysuutiset/a/398c55b5-2212-48f7-8867-5c7f18831aab  
 **Tekijä / julkaisija:** Silja Säily / Iltalehti  
 **Luettu:** 2026-06-24  

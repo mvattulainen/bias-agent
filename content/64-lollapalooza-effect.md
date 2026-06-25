@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[63-kantian-fairness-tendency|Reiluusreaktio]]
 
-# Lollapalooza-vaikutus (Lollapalooza Effect)
-
 **Kategoria:** Päätöksenteko ja riskit
 
 **Määritelmä:** Useat psykologiset taipumukset vahvistavat toisiaan samassa tilanteessa ja tuottavat paljon voimakkaamman päätösvirheen kuin yksikään niistä yksin tuottaisi.

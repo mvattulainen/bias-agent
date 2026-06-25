@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[10-contrast-effect|Kontrastivaikutus]] | Seuraava: [[12-it-gets-worse-before-it-gets-better-trap|'Ensin pahenee' -ansa]]
 
-# Saatavuusharha (Availability Bias)
-
 **Kategoria:** Todennäköisyys ja tilastot
 
 **Määritelmä:** Pidämme helposti mieleen tulevia tapahtumia yleisempinä tai todennäköisempinä kuin ne ovat.

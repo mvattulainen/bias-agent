@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[58-overoptimism|Yltiöoptimismi]] | Seuraava: [[60-stress-influence-tendency|Stressivaikutus]]
 
-# Menetyksen ylireaktio (Deprival Super-Reaction Tendency)
-
 **Kategoria:** Päätöksenteko ja riskit
 
 **Määritelmä:** Reagoimme suhteettoman voimakkaasti, kun koemme menettävämme jotakin jo omaksi miellettyä, vaikka menetys olisi pieni tai vain mahdollinen.

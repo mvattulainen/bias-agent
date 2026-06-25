@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[30-gambler-fallacy|Uhkapelaajan harha]] | Seuraava: [[32-induction-bias|Induktioharha]]
 
-# Ankkurointi (Anchoring)
-
 **Kategoria:** Havaitseminen ja kehystäminen
 
 **Määritelmä:** Ensimmäinen luku, hinta tai viitekohta vetää myöhempiä arvioita puoleensa, vaikka se olisi mielivaltainen.

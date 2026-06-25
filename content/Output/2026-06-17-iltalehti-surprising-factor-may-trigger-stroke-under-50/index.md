@@ -2,8 +2,6 @@
 title: "Ajatusvirhearvio: Yllättävä asia voi laukaista aivoinfarktin alle 50-vuotiaalla"
 ---
 
-# Ajatusvirhearvio: Yllättävä asia voi laukaista aivoinfarktin alle 50-vuotiaalla
-
 **Lähde:** https://www.iltalehti.fi/terveysuutiset/a/37d3d678-03d6-433a-84df-d07bd54e5201  
 **Tekijä / julkaisija:** Petra Sneck / Iltalehti  
 **Luettu:** 2026-06-24  

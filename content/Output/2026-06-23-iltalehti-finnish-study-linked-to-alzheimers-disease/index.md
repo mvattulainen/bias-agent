@@ -2,8 +2,6 @@
 title: "Ajatusvirhearvio: Suomalaistutkimus: Tällä yhteys Alzheimerin tautiin"
 ---
 
-# Ajatusvirhearvio: Suomalaistutkimus: Tällä yhteys Alzheimerin tautiin
-
 **Lähde:** https://www.iltalehti.fi/terveysuutiset/a/cd163ba5-1a06-4811-b3fe-2cd125719ac2  
 **Tekijä / julkaisija:** Silja Säily / Iltalehti  
 **Luettu:** 2026-06-24  

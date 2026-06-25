@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[04-social-proof|Sosiaalinen todiste]] | Seuraava: [[06-reciprocity|Vastavuoroisuus]]
 
-# Uponneiden kustannusten harha (Sunk Cost Fallacy)
-
 **Kategoria:** Päätöksenteko ja riskit
 
 **Määritelmä:** Jatkamme huonoa hanketta, koska siihen on jo käytetty rahaa, aikaa, mainetta tai tunteita, vaikka tulevat hyödyt eivät enää oikeuta jatkamista.

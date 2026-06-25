@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[06-reciprocity|Vastavuoroisuus]] | Seuraava: [[08-confirmation-bias-ii|Vahvistusharha II]]
 
-# Vahvistusharha I (Confirmation Bias I)
-
 **Kategoria:** Itsearviointi ja uskomukset
 
 **Määritelmä:** Etsimme, muistamme ja hyväksymme helpommin tietoa, joka tukee ennakkokäsityksiämme.

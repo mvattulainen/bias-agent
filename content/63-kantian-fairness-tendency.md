@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[62-reason-respecting-tendency|Syyperustelun harha]] | Seuraava: [[64-lollapalooza-effect|Lollapalooza-vaikutus]]
 
-# Reiluusreaktio (Kantian Fairness Tendency)
-
 **Kategoria:** Sosiaalinen vaikutus ja ryhmät
 
 **Määritelmä:** Arvioimme tekoja voimakkaasti sen mukaan, tuntuvatko ne reiluilta ja yleistettäviltä, joskus myös silloin kun seuraukset tai kokonaiskustannukset jäävät sivuun.

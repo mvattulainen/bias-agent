@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[13-story-bias|Tarinaharha]] | Seuraava: [[15-chauffeur-knowledge|Kuljettajatieto]]
 
-# Jälkiviisausharha (Hindsight Bias)
-
 **Kategoria:** Ennustaminen ja asiantuntijuus
 
 **Määritelmä:** Tapahtuman jälkeen se tuntuu ennakoitavammalta kuin se oli ennen tapahtumaa.

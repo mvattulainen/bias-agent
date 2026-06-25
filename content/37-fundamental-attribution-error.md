@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[36-winner-curse|Voittajan kirous]] | Seuraava: [[38-false-causality|Väärä kausaliteetti]]
 
-# Perusattribuutiovirhe (Fundamental Attribution Error)
-
 **Kategoria:** Sosiaalinen vaikutus ja ryhmät
 
 **Määritelmä:** Yliarvioimme persoonan ja aliarvioimme tilanteen vaikutuksen toisten käyttäytymiseen.

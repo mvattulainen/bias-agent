@@ -7,8 +7,6 @@ tags:
   - ajatteluharhat
 ---
 
-# Ajatusvirheet kategorioittain
-
 ## Ennustaminen ja asiantuntijuus
 - [[12-it-gets-worse-before-it-gets-better-trap|'Ensin pahenee' -ansa]]
 - [[14-hindsight-bias|Jälkiviisausharha]]

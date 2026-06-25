@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[12-it-gets-worse-before-it-gets-better-trap|'Ensin pahenee' -ansa]] | Seuraava: [[14-hindsight-bias|Jälkiviisausharha]]
 
-# Tarinaharha (Story Bias)
-
 **Kategoria:** Syy-seuraus ja tarinat
 
 **Määritelmä:** Suosimme selkeitä, kausaalisia tarinoita hajanaisen, sattumanvaraisen tai epävarman todellisuuden sijasta.

@@ -2,8 +2,6 @@
 title: "Ajatusvirhearvio: Tämän vitamiinin puute voi liittyä aivojen ennenaikaiseen vanhenemiseen"
 ---
 
-# Ajatusvirhearvio: Tämän vitamiinin puute voi liittyä aivojen ennenaikaiseen vanhenemiseen 
-
 **Lähde:** https://www.iltalehti.fi/terveysuutiset/a/47a84dc4-6f0c-4d69-90d5-e81bb68ad127  
 **Tekijä / julkaisija:** Petra Sneck / Iltalehti  
 **Luettu:** 2026-06-24  

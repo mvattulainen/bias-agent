@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[39-halo-effect|Haloefekti]] | Seuraava: [[41-forecast-illusion|Ennusteilluusio]]
 
-# Vaihtoehtoiset polut (Alternative Paths)
-
 **Kategoria:** Päätöksenteko ja riskit
 
 **Määritelmä:** Arvioimme toteutunutta menestystä huomioimatta muita mahdollisia polkuja, joissa sama päätös olisi voinut epäonnistua.

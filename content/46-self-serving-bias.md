@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[45-omission-bias|Laiminlyöntiharha]] | Seuraava: [[47-hedonic-treadmill|Hedoninen oravanpyörä]]
 
-# Itseä palveleva harha (Self-Serving Bias)
-
 **Kategoria:** Itsearviointi ja uskomukset
 
 **Määritelmä:** Selitämme onnistumiset omilla kyvyillä ja epäonnistumiset ulkoisilla olosuhteilla.

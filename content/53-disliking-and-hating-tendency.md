@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[52-hyperbolic-discounting|Hyperbolinen diskonttaus]] | Seuraava: [[54-doubt-avoidance-tendency|Epävarmuuden välttely]]
 
-# Inhoamis- ja vihaharha (Disliking / Hating Tendency)
-
 **Kategoria:** Sosiaalinen vaikutus ja ryhmät
 
 **Määritelmä:** Arvioimme ihmisiä, väitteitä ja tekoja kielteisemmin, kun ne liittyvät henkilöön tai ryhmään, jota emme pidä miellyttävänä tai johon suhtaudumme vihamielisesti.

@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[38-false-causality|Väärä kausaliteetti]] | Seuraava: [[40-alternative-paths|Vaihtoehtoiset polut]]
 
-# Haloefekti (Halo Effect)
-
 **Kategoria:** Havaitseminen ja kehystäminen
 
 **Määritelmä:** Yksi näkyvä myönteinen tai kielteinen piirre leviää arvioon muista, erillisistä piirteistä.

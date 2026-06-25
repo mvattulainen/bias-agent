@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[61-twaddle-tendency|Hölynpölytaipumus]] | Seuraava: [[63-kantian-fairness-tendency|Reiluusreaktio]]
 
-# Syyperustelun harha (Reason-Respecting Tendency)
-
 **Kategoria:** Sosiaalinen vaikutus ja ryhmät
 
 **Määritelmä:** Hyväksymme pyynnön, säännön tai väitteen helpommin, kun sille annetaan jokin syy, vaikka syy olisi heikko, epämääräinen tai asiaan kuulumaton.

@@ -20,8 +20,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[54-doubt-avoidance-tendency|Epävarmuuden välttely]] | Seuraava: [[56-envy-and-jealousy-tendency|Kateus- ja mustasukkaisuusharha]]
 
-# Johdonmukaisuuden jäykkyys (Inconsistency-Avoidance Tendency)
-
 **Kategoria:** Itsearviointi ja uskomukset
 
 **Määritelmä:** Pidämme kiinni aiemmista uskomuksista, päätöksistä tai julkisista kannoista, koska ristiriidan myöntäminen tuntuu uhkaavalta.

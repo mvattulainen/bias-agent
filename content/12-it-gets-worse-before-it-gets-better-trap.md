@@ -18,8 +18,6 @@ tags:
 
 [[Index|Index]] | Edellinen: [[11-availability-bias|Saatavuusharha]] | Seuraava: [[13-story-bias|Tarinaharha]]
 
-# ‘Ensin pahenee’ -ansa
-
 **Kategoria:** Ennustaminen ja asiantuntijuus
 
 **Määritelmä:** Huono neuvo suojataan väitteellä, että tilanne pahenee ennen kuin se paranee; näin sekä huononeminen että paraneminen voidaan tulkita ennusteen eduksi.
