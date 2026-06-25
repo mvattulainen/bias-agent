@@ -14,9 +14,26 @@ import { QuartzLogger } from "../util/log"
 import { trace } from "../util/trace"
 import { BuildCtx, WorkerSerializableBuildCtx } from "../util/ctx"
 import { styleText } from "util"
+import YAML from "yaml"
 
 export type QuartzMdProcessor = Processor<MDRoot, MDRoot, MDRoot>
 export type QuartzHtmlProcessor = Processor<undefined, MDRoot, HTMLRoot>
+
+function extractFrontmatter(src: string): { frontmatter?: Record<string, unknown>; content: string } {
+  const match = src.match(/^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/)
+  if (!match) {
+    return { content: src }
+  }
+
+  try {
+    return {
+      frontmatter: (YAML.parse(match[1]) ?? {}) as Record<string, unknown>,
+      content: src.slice(match[0].length).trimStart(),
+    }
+  } catch {
+    return { content: src }
+  }
+}
 
 export function createMdProcessor(ctx: BuildCtx): QuartzMdProcessor {
   const transformers = ctx.cfg.plugins.transformers
@@ -93,6 +110,12 @@ export function createFileParser(ctx: BuildCtx, fps: FilePath[]) {
 
         // strip leading and trailing whitespace
         file.value = file.value.toString().trim()
+
+        const { frontmatter, content } = extractFrontmatter(file.value)
+        if (frontmatter !== undefined) {
+          file.data.frontmatter = frontmatter as NonNullable<typeof file.data.frontmatter>
+          file.value = content
+        }
 
         // Text -> Text transforms
         for (const plugin of cfg.plugins.transformers.filter((p) => p.textTransform)) {
