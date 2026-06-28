@@ -5,12 +5,16 @@ title: "Agentti"
 
 Tapoja käyttää sivustoa tekoälyagentilla:
 
-Anna agentillesi osoite: https://mvattulainen.github.io/bias-agent/
+Esimerkkejä:
 
-Pyydä sitten agenttia, esim.
+1) Agentti käyttää sivustoa luotettuna lähteenä analysoidessaan ulkoista sisältöää
 
-1. Analysoi tähän viestiin liittämäni sisältö käyttäen annettua sivustoa
+"By using the cognitive biases as identified in https://mvattulainen.github.io/bias-agent site and the source analysis workflow in Ajatteluharhat-skill page on the site, analyse this article: https://www.is.fi/terveys/art-2000012101212.html."
 
-2. Opeta minulle kognitiivisista harhoista käyttäen sivustoa ja siellä olevaa opetustaitoa: 
+2) Agentti opettaa kognitiivisia harhoja ylläpitäen tietoa lähikehityksen vyöhykkeestä.
 
-3. Generoi esimerkkejä harhoista käyttäen sivuston sisältöä
+"By using the cognitive biases as identified in https://mvattulainen.github.io/bias-agent site and the Opettaja-skill page on the site, run one teaching session with me including 1 cognitive bias. Maintain the learning log on my personal computer. Difficulty level: adult learner."
+
+3) Agentti luo esimerkkejä kognitiivista harhoista
+
+"By using the cognitive biases as identified in https://mvattulainen.github.io/bias-agent site and the source analysis workflow in Ajatteluharhat-skill page on the site, generate 3 examples of survivor bias on health study topic"

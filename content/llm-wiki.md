@@ -4,8 +4,9 @@ title: "LLM-wiki"
 
 
 Tämä koneellisesti tuotettu sivusto on esimerkki LLM-wikistä.
+Sivusto toteutuu [[ajatteluharhat-skill|Ajatteluharhat-skill]] ohjeen mukaisesti.
 
-LLM-wiki-ideasta voi lukea tarkemmin täältä (englanti): [Karpathy LLM-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+LLM-wiki-ideasta voi lukea tarkemmin täältä (ulkoinen linkki): [Karpathy LLM-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
 
 LLM-wikin keskeisiä hyötyjä ovat:
 - Asiantuntijan valitsemat luotettavat lähteet yleisen kielimallin yleisen tiedon sijaan
@@ -19,7 +20,7 @@ LLM-wikin haittoja ovat:
 
 Näin wiki toimii:
 
-Wiki ja koko sivusto luodaan [[Sivusto-skill|Sivusto-skill]] taidolla, jonka laajaa kielimallia toteuttaa.  
+Wiki ja koko sivusto luodaan [[sivusto-skill|Sivusto-skill]] taidolla, jonka laajaa kielimallia toteuttaa.  
 
 ```mermaid  
 flowchart TD  
@@ -49,7 +50,7 @@ Sisällön arvioinnissa agentti käy läpi käsitteet ja tunnistaa ongelmia, ris
 
 Sovellusesimerkkien ja sisällön arvioinnin perusteella tunnistetaan [[muutostarpeet-koonti|Muutostarpeet]], joiden toteuttaminen kehittää käsitteitä. 
 
-Kokonaisuuteen kuuluu myös Oppiminen, jossa agentti käy vuoropuhelua käyttäjän kanssa ja  samalla ylläpitäen tietoa käyttäjän lähikehityksen vyöhykeestä eli mitä käyttäjä jo osaa soveltaa, mitä ei ja mikä olisi seuraava opittava asia tarkalleen ottaen. Näin tarkasti ottaen: [[Opettaja-skill|Opettaja-skill]] . Esimerkki oppimislokista näkyy täällä [[oppimisloki|Oppimisloki]]. Tässä esimerkissä oppilas on 5:llä luokalla
+Kokonaisuuteen kuuluu myös Oppiminen, jossa agentti käy vuoropuhelua käyttäjän kanssa ja  samalla ylläpitäen tietoa käyttäjän lähikehityksen vyöhykeestä eli mitä käyttäjä jo osaa soveltaa, mitä ei ja mikä olisi seuraava opittava asia tarkalleen ottaen. Näin tarkasti ottaen: [[opettaja-skill|Opettaja-skill]] . Esimerkki oppimislokista näkyy täällä [[oppimisloki|Oppimisloki]]. Tässä esimerkissä oppilas on 5:llä luokalla
 
 Oppimisesta muutostarpeisiin toiminnallisuutta (katkoviiva yllä kuvassa) ei ole vielä toteutettu (28.6.2026). 
 

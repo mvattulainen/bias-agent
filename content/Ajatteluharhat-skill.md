@@ -1,17 +1,6 @@
 ---
-tyyppi: huomio
-nimi: "Sivusto-skill"
-tags:
-  - ajatusvirheet
-  - yllapito
----
-
-# Sivusto-skill
-
----
 name: Bias
-desciption: Use this skill when the user asks to analyze a source link or pasted source for thinking errors, cognitive biases, weak inferences, claims, interpretations, and alternative explanations; when the user asks to learn from saved bias-analysis reports and suggest wiki improvements; when the user asks to lint/evaluate the local thinking-error wiki for problems, contradictions, unclear items, duplication, or maintenance needs; or when the user asks to create Finnish adult-learning exercises/examples for recognizing cognitive biases. The skill reads the local Wiki vault, saves analysis reports to Soveltaminen, saves improvement and linting reports to Muutostarpeet, saves exercise pages to Harjoituksia, updates the relevant overview pages, and preserves Obsidian/Quartz compatibility
-
+description: Use this skill when the user asks to analyze a source link or pasted source for thinking errors, cognitive biases, weak inferences, claims, interpretations, and alternative explanations; when the user asks to learn from saved bias-analysis reports and suggest wiki improvements; when the user asks to lint/evaluate the local thinking-error wiki for problems, contradictions, unclear items, duplication, or maintenance needs; or when the user asks to create Finnish adult-learning exercises/examples for recognizing cognitive biases. The skill reads the local Wiki vault, saves analysis reports to Soveltaminen, saves improvement and linting reports to Muutostarpeet, saves exercise pages to Harjoituksia, updates the relevant overview pages, and preserves Obsidian/Quartz compatibility.
 ---
 
 # Bias
@@ -342,5 +331,3 @@ Use this structure for Finnish output:
 - If a unit is well-supported, say so and mark that no clear thinking error is identified.
 - Distinguish missing evidence in the article from evidence that may exist elsewhere.
 - Use Obsidian links to relevant wiki pages when saving inside the vault.
-
-

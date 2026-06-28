@@ -9,5 +9,5 @@ tags:
 
 [[Index|Aloitus]]
 
-- [[Muutostarpeet/oppimisehdotukset-2026-06-25|Oppimisehdotukset 2026-06-25]]
+- [[Muutostarpeet/kehitysehdotukset-2026-06-25|Kehitysehdotukset 2026-06-25]]
 - [[Muutostarpeet/arviointi-2026-06-25|Arviointi 2026-06-25]]
