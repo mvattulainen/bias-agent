@@ -9,7 +9,7 @@ tags:
 Tervetuloa Ajatteluharhat-sivustolle.
 
 Sivuston tarkoituksena on toimia yksinkertaisena esimerkkinä siitä, miten:
-- tekoälyagentti voi muodostaa ja ylläpitää sivustoa lähtedokumentteihin perustuen
+- tekoälyagentti voi muodostaa sivuston ja ylläpitää sitä lähtedokumentteihin perustuen
 - toiset agentit käyttävät sivuston tarjoamia tietoja
 
 Vastaavana oikeana käyttötapauksena on [[laakinnallisen-laitteen-kliininen-evaluaatio|Lääkinnällisen laitteen kliininen evaluaatio]]. Katso, miten päästään [[esimerkista-kayttotapaukseen|Esimerkistä käyttötapaukseen]].
@@ -20,7 +20,7 @@ Tämä esimerkkisivusto käsittelee yleisiä [[ajatteluharhoja|Ajatteluharhoja]]
 
 Sivusto on [[llm-wiki|LLM-wiki]]:
 
-- Tekoälyagentti muodostaa ja päivittää sivuston automaattisesti ajatteluharhojen kuvaukset ja muun sisällön lähdedokumenttien perusteella. 
+- Tekoälyagentti muodostaa ja päivittää  ajatteluharhojen kuvaukset ja muun sisällön automaattisesti lähdedokumenttien perusteella. 
 
 - Ajatteluharhojen kuvauksia (ns. luotettu lähde) käyttäen agentti analysoi ulkoisia sisältöjä (=agentille annettuja linkkejä) esimerkkeinä terveusuutiset, kts. [[soveltaminen-koonti|Soveltaminen]]
 

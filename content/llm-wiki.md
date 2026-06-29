@@ -3,7 +3,7 @@ title: "LLM-wiki"
 ---
 
 
-Tämä koneellisesti tuotettu sivusto on esimerkki LLM-wikistä.
+Tämä pääosin koneellisesti tuotettu sivusto on esimerkki LLM-wikistä.
 Sivusto toteutuu [[ajatteluharhat-skill|Ajatteluharhat-skill]] ohjeen mukaisesti.
 
 LLM-wiki-ideasta voi lukea tarkemmin täältä (ulkoinen linkki): [Karpathy LLM-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
@@ -11,12 +11,13 @@ LLM-wiki-ideasta voi lukea tarkemmin täältä (ulkoinen linkki): [Karpathy LLM-
 LLM-wikin keskeisiä hyötyjä ovat:
 - Asiantuntijan valitsemat luotettavat lähteet yleisen kielimallin yleisen tiedon sijaan
 - Suurestä määrästä/ laajoista lähteistä voidaan tiivistää keskeinen sisältö 
+- Keskeinen sisältö voidaan esittää helposti luettavassa rakenteellisessa muodossa ja sisältö voidaan linkittää
 - Tekoälyagentti voi muodostaa vastauksen wikin tietojen perusteella ja vastaus itsessään takaisin syötettynä kehittää wikin sisältöjä
-- Wikin voi rakentaa siten, että sekä wikin sisältö että agentin käyttämä kielimalli ovat paikallisella tietokoneella
+- Wikin voi rakentaa siten, että sekä wikin sisältö että agentin käyttämä kielimalli ovat paikallisella tietokoneella, mikäli näin halutaan. 
 
 LLM-wikin haittoja ovat:
 - Wikin sisällöt ovat agentin tuottamia, jolloin lähteiden sisällöt saattavat sisältää hallusinaatioida 
-- Toisin kuin RAG (retrieval augmentit generation) wiki ei yleensä tuota/käytä sanatarkkoja lainauksia lähdeteksteistä
+- Toisin kuin RAG (retrieval augmentit generation) wiki ei yleensä tuota/käytä sanatarkkoja lainauksia lähdeteksteistä. Sivustoa on kuitenkin helppo täydentää RAG-ratkaisulla.
 
 Näin wiki toimii:
 
