@@ -7,9 +7,9 @@ title: "Lääkinnällisen laitteen kliininen evaluaatio"
 
 1. Maksava asiakas
 
-Maksavan asiakkaan agentti koostaa vertailun kategorian laitteista käyttäen laitevalmistajien tarjoamia tietoja.
+Maksavan asiakkaan agentti koostaa vertailun laitekategorian laitteista käyttäen laitevalmistajien agentille tarjoamia tietoja.
 
-Maksavan asiakkaan agentti seuraa laitteeseen liittyviä tapahtumia, kuten haittatapahumia tai indikaatioiden/ käyttäjäryhmien muutoksia (kliinisen näytön muuttuessa).
+Maksavan asiakkaan agentti seuraa laitteeseen liittyviä tapahtumia, kuten haittatapahumia tai indikaatioiden/ käyttäjäryhmien muutoksia tai kliinisen näytön kertymistä (kliinisen näytön muuttuessa).
 
 2. Laitteen käyttäjä
 
@@ -23,7 +23,7 @@ Myynnin agentti generoi kliinisestä evaluaatiosta materiaaleja erilaisiin sidos
 
 4. Muut
 
-On kuviteltavissa, että tulevaisuudessa viranomaisten agentit seuraavat laitteet compliance-statusta reaaliaikaisesti. 
+On kuviteltavissa, että tulevaisuudessa viranomaisten agentit seuraavat laitteen compliance-statusta reaaliaikaisesti valmistajan tarjoaman rajapinnan kautta.
 
 ---
 
@@ -31,25 +31,11 @@ Olettaen, että lääkinnällisen laitteen kliininen evaluaatio on jo tehty, tek
 
 1) Wiki-sivuston muodostaminen ja ylläpitäminen
 
-Tekoälyagentti muodostaa sivuston joko sisäisenä ja ulkoisena websivuna. Kts. myös: [[llm-wiki|LLM-wiki]]
-Keskeisiä sivuja ovat mm. sivut kliinisille hyötyväitteille (yksi/ kliininen hyötyväite), käyttäjäryhmät, indikaatio, käyttötarkoitus, end-point mittarit, kliininen näyttö, kliinisen näytön puutteet.
+Tekoälyagentti muodostaa sivuston joko sisäisenä ja ulkoisena websivuna. Kts. [[llm-wiki|LLM-wiki]]
 
 2) Tietojen tarjoaminen siten, että toiset agentit voivat tietoja käyttää
 
-Tietojen tarjoamisessa on [[toinen-tekoalyagentti|Toinen tekoälyagentti]]a  . Tämä esimerkkisivusto toimii tasoilla 1 (Perustaso) ja 2 (Keskitaso). 
-
-------
-
-Miten tämä sivusto liittyy kliiniseen evaluaatioon? Kts. [[esimerkista-kayttotapaukseen|Esimerkistä käyttötapaukseen]]
-
----
-
-
-
-
-
-
--
+Suunnitellussa keskeistä on, että käyttäjä on [[toinen-tekoalyagentti|Toinen tekoälyagentti]]. 
 
 
 

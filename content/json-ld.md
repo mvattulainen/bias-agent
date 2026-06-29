@@ -1,7 +1,7 @@
 ---
 title: "JSON-LD"
 ---
-
+```html
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -1815,3 +1815,4 @@ title: "JSON-LD"
   ]
 }
 </script>
+```

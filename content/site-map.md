@@ -1,7 +1,7 @@
 ---
 title: "Site map"
 ---
-
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <siteMap baseUrl="https://mvattulainen.github.io/bias-agent/" generated="2026-06-29">
   <section id="overview" title="Overview and agent guidance">
@@ -165,3 +165,4 @@ title: "Site map"
     <page title="yllapito" url="https://mvattulainen.github.io/bias-agent/tags/yllapito" />
   </section>
 </siteMap>
+```

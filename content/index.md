@@ -6,17 +6,13 @@ tags:
   - ajatusvirheet
   - ajatteluharhat
 ---
-Tervetuloa Ajatteluharhat-sivustolle.
+Tervetuloa Ajatteluharhat-sivustolle. Tämä esimerkkisivusto käsittelee yleisiä [[ajatteluharhoja|Ajatteluharhoja]] (cognitive bias). [[lahteina|Lähteinä]] Dobellin ja Mungerin teokset. Tässä [[ajatteluharhat-kategorioittain|Ajatteluharhat kategorioittain]].
 
 Sivuston tarkoituksena on toimia yksinkertaisena esimerkkinä siitä, miten:
-- tekoälyagentti voi muodostaa sivuston ja ylläpitää sitä lähtedokumentteihin perustuen
+- tekoälyagentti voi muodostaa sivuston ja ylläpitää sitä lähdedokumentteihin perustuen
 - toiset agentit käyttävät sivuston tarjoamia tietoja
 
-Vastaavana oikeana käyttötapauksena on [[laakinnallisen-laitteen-kliininen-evaluaatio|Lääkinnällisen laitteen kliininen evaluaatio]]. Katso, miten päästään [[esimerkista-kayttotapaukseen|Esimerkistä käyttötapaukseen]].
-
-Tämä esimerkkisivusto käsittelee yleisiä [[ajatteluharhoja|Ajatteluharhoja]] (cognitive bias). [[lahteina|Lähteinä]] Dobellin ja Mungerin teokset. 
-
-[[ajatteluharhat-kategorioittain|Ajatteluharhat kategorioittain]]
+Vastaavana oikeana käyttötapauksena on [[laakinnallisen-laitteen-kliininen-evaluaatio|Lääkinnällisen laitteen kliininen evaluaatio]]. Katso, miten päästään [[esimerkista-kayttotapaukseen|Esimerkistä käyttötapaukseen]]. Lue myös [[riskeista|Riskeistä]].
 
 Sivusto on [[llm-wiki|LLM-wiki]]:
 
@@ -30,7 +26,7 @@ Sivusto on [[llm-wiki|LLM-wiki]]:
 
 - Agentti ohjaa oppimista ja käy keskustelua oppijan kanssa. Esimerkkinä sessioita 5-luokkalaisen oppijan kanssa, kts. [[oppimisloki|Oppimisloki]]
 
-Tämän sivuston käyttäjä on [[toinen-tekoalyagentti|Toinen tekoälyagentti]], kts. [[kehotteet|Kehotteet]].
+Tämä sivusto on suunniteltu siten, että sen ensisijainen käyttäjä on [[toinen-tekoalyagentti|Toinen tekoälyagentti]], kts. [[kehotteet|Kehotteet]].
 
 Tekijä: Markus Vattulainen. 
 Tekoälyagentti OpenAI Codex. 
